@@ -1,0 +1,3919 @@
+HTTP/1.1 200 OK
+Connection: keep-alive
+Date: Wed, 06 Jun 2018 19:40:42 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 137769
+X-Frame-Options: SAMEORIGIN
+Server: GitBook.com
+X-Pjax-Url: /api/author/catedu/books
+X-Pjax-Version: 20.3.4
+Access-Control-Allow-Credentials: true
+Access-Control-Expose-Headers: ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval
+Access-Control-Max-Age: 86400
+Access-Control-Allow-Headers: Authorization, Content-Type, If-Match, If-Modified-Since, If-None-Match, If-Unmodified-Since, X-GitHub-OTP, X-Requested-With
+Access-Control-Allow-Methods: GET, HEAD, POST, PATCH, PUT, DELETE
+Access-Control-Allow-Origin: *
+Cache-Control: no-store, must-revalidate
+Pragma: no-cache
+Expires: 0
+Etag: W/"21a29-slzjmjelj3SyFMSh6bRvRw"
+Set-Cookie: gitbook:sess=eyJ2YXJpYW50IjoxLCJhbm9ueW1vdXNJZCI6IjdkMDM4NzM3LTRlNWItNDc1My04ZDEwLTlmMzZjODU0ZTNmMyJ9; path=/; expires=Fri, 06 Jul 2018 19:40:42 GMT; secure; httponly
+Set-Cookie: gitbook:sess.sig=xkDY313V2drCSRGG6e45Tdm8fA4; path=/; expires=Fri, 06 Jul 2018 19:40:42 GMT; secure; httponly
+Via: 1.1 vegur
+
+{
+  "list": [
+    {
+      "id": "catedu/convivencia-segura-en-la-red",
+      "status": "published",
+      "name": "convivencia-segura-en-la-red",
+      "title": "Convivencia segura en la red.",
+      "description": "Una guía para una mejor convivencia en la red, que nos permite conocer y actuar sobre los riesgos que corren los menores sin eliminar las ventajas que nos proporcionan las redes sociales.",
+      "public": true,
+      "template": "convert",
+      "topics": [],
+      "license": "cc-by-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/convivencia-segura-en-la-red.jpg?build=1519378091445",
+        "small": "/cover/book/catedu/convivencia-segura-en-la-red.jpg?build=1519378091445&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/convivencia-segura-en-la-red.git",
+        "access": "https://legacy.gitbook.com/book/catedu/convivencia-segura-en-la-red",
+        "homepage": "https://catedu.gitbooks.io/convivencia-segura-en-la-red/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/convivencia-segura-en-la-red",
+        "edit": "https://legacy.gitbook.com/book/catedu/convivencia-segura-en-la-red/edit",
+        "content": "https://catedu.gitbooks.io/convivencia-segura-en-la-red/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/convivencia-segura-en-la-red",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/convivencia-segura-en-la-red",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/convivencia-segura-en-la-red"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 1,
+        "updates": 55,
+        "discussions": 6,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-02-23T09:28:11.445Z",
+        "created": "2017-09-13T12:24:50.500Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/monta-tu-aula-de-informatica-con-raspberry-pi",
+      "status": "published",
+      "name": "monta-tu-aula-de-informatica-con-raspberry-pi",
+      "title": "Monta tu aula de informática con Raspberry Pi",
+      "description": "¿Tienes monitores, teclados, ratones, enchufes... en tu antigua aula de informática? Puedes modernizarla y darle un nuevo enfoque maker por muy poco dinero. ¡Y utilizando hardware y software libre!",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/monta-tu-aula-de-informatica-con-raspberry-pi.jpg?build=1521117900315",
+        "small": "/cover/book/catedu/monta-tu-aula-de-informatica-con-raspberry-pi.jpg?build=1521117900315&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/monta-tu-aula-de-informatica-con-raspberry-pi.git",
+        "access": "https://legacy.gitbook.com/book/catedu/monta-tu-aula-de-informatica-con-raspberry-pi",
+        "homepage": "https://catedu.gitbooks.io/monta-tu-aula-de-informatica-con-raspberry-pi/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/monta-tu-aula-de-informatica-con-raspberry-pi",
+        "edit": "https://legacy.gitbook.com/book/catedu/monta-tu-aula-de-informatica-con-raspberry-pi/edit",
+        "content": "https://catedu.gitbooks.io/monta-tu-aula-de-informatica-con-raspberry-pi/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/monta-tu-aula-de-informatica-con-raspberry-pi",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/monta-tu-aula-de-informatica-con-raspberry-pi",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/monta-tu-aula-de-informatica-con-raspberry-pi"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 4,
+        "updates": 6,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-03-15T12:45:00.315Z",
+        "created": "2017-09-25T11:58:48.514Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/la-ensenanza-aprendizaje-de-la-flauta-escolar",
+      "status": "published",
+      "name": "la-ensenanza-aprendizaje-de-la-flauta-escolar",
+      "title": "La enseñanza-aprendizaje de la flauta escolar",
+      "description": "Curso de didáctica de la flauta escolar.",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/la-ensenanza-aprendizaje-de-la-flauta-escolar.jpg?build=1528015214873",
+        "small": "/cover/book/catedu/la-ensenanza-aprendizaje-de-la-flauta-escolar.jpg?build=1528015214873&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/la-ensenanza-aprendizaje-de-la-flauta-escolar.git",
+        "access": "https://legacy.gitbook.com/book/catedu/la-ensenanza-aprendizaje-de-la-flauta-escolar",
+        "homepage": "https://catedu.gitbooks.io/la-ensenanza-aprendizaje-de-la-flauta-escolar/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/la-ensenanza-aprendizaje-de-la-flauta-escolar",
+        "edit": "https://legacy.gitbook.com/book/catedu/la-ensenanza-aprendizaje-de-la-flauta-escolar/edit",
+        "content": "https://catedu.gitbooks.io/la-ensenanza-aprendizaje-de-la-flauta-escolar/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/la-ensenanza-aprendizaje-de-la-flauta-escolar",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/la-ensenanza-aprendizaje-de-la-flauta-escolar",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/la-ensenanza-aprendizaje-de-la-flauta-escolar"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 4,
+        "updates": 426,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-06-03T08:40:14.873Z",
+        "created": "2017-09-25T12:02:04.689Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/google-classroom",
+      "status": "published",
+      "name": "google-classroom",
+      "title": "Google Classroom",
+      "description": "Breve curso introductorio a esta potente herramienta de gestión asignaturas que ofrece Google.",
+      "public": true,
+      "template": "convert",
+      "topics": [
+        "classroom",
+        "e-learning",
+        "google"
+      ],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/google-classroom.jpg?build=1519381399943",
+        "small": "/cover/book/catedu/google-classroom.jpg?build=1519381399943&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/google-classroom.git",
+        "access": "https://legacy.gitbook.com/book/catedu/google-classroom",
+        "homepage": "https://catedu.gitbooks.io/google-classroom/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/google-classroom",
+        "edit": "https://legacy.gitbook.com/book/catedu/google-classroom/edit",
+        "content": "https://catedu.gitbooks.io/google-classroom/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/google-classroom",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/google-classroom",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/google-classroom"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 16,
+        "discussions": 1,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-02-23T10:23:19.943Z",
+        "created": "2017-10-09T08:36:08.091Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/curso-de-edmodo",
+      "status": "published",
+      "name": "curso-de-edmodo",
+      "title": "Curso de Edmodo",
+      "description": "Potente plataforma para gestionar tu clase.",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/curso-de-edmodo.jpg?build=1524572088953",
+        "small": "/cover/book/catedu/curso-de-edmodo.jpg?build=1524572088953&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/curso-de-edmodo.git",
+        "access": "https://legacy.gitbook.com/book/catedu/curso-de-edmodo",
+        "homepage": "https://catedu.gitbooks.io/curso-de-edmodo/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/curso-de-edmodo",
+        "edit": "https://legacy.gitbook.com/book/catedu/curso-de-edmodo/edit",
+        "content": "https://catedu.gitbooks.io/curso-de-edmodo/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/curso-de-edmodo",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/curso-de-edmodo",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/curso-de-edmodo"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 14,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-04-24T12:14:48.953Z",
+        "created": "2017-10-16T08:34:14.216Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/faq-aularagon",
+      "status": "published",
+      "name": "faq-aularagon",
+      "title": "FAQ Aularagón",
+      "description": "Preguntas frecuentes sobre Aularagón.",
+      "public": true,
+      "template": "github",
+      "topics": [
+        "dudas",
+        "soporte",
+        "catedu",
+        "aularagon"
+      ],
+      "license": "cc-by-nc-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/faq-aularagon.jpg?build=1528188357182",
+        "small": "/cover/book/catedu/faq-aularagon.jpg?build=1528188357182&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/faq-aularagon.git",
+        "access": "https://legacy.gitbook.com/book/catedu/faq-aularagon",
+        "homepage": "https://catedu.gitbooks.io/faq-aularagon/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/faq-aularagon",
+        "edit": "https://legacy.gitbook.com/book/catedu/faq-aularagon/edit",
+        "content": "https://catedu.gitbooks.io/faq-aularagon/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/faq-aularagon",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/faq-aularagon",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/faq-aularagon"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 30,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-06-05T08:45:57.182Z",
+        "created": "2017-10-16T11:43:46.199Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/curso-de-linux",
+      "status": "published",
+      "name": "curso-de-linux",
+      "title": "Curso de Linux",
+      "description": "Una breve introducción a Linux y al software libre para el profesorado.",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/curso-de-linux.jpg?build=1520515126434",
+        "small": "/cover/book/catedu/curso-de-linux.jpg?build=1520515126434&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/curso-de-linux.git",
+        "access": "https://legacy.gitbook.com/book/catedu/curso-de-linux",
+        "homepage": "https://catedu.gitbooks.io/curso-de-linux/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/curso-de-linux",
+        "edit": "https://legacy.gitbook.com/book/catedu/curso-de-linux/edit",
+        "content": "https://catedu.gitbooks.io/curso-de-linux/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/curso-de-linux",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/curso-de-linux",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/curso-de-linux"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 4,
+        "updates": 23,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-03-08T13:18:46.434Z",
+        "created": "2017-10-31T09:30:16.406Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/matematicas-y-las-tic",
+      "status": "published",
+      "name": "matematicas-y-las-tic",
+      "title": "Matemáticas y las TIC",
+      "description": "Curso de matemáticas con las TIC para Aularagón.",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/matematicas-y-las-tic.jpg?build=1519385825158",
+        "small": "/cover/book/catedu/matematicas-y-las-tic.jpg?build=1519385825158&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/matematicas-y-las-tic.git",
+        "access": "https://legacy.gitbook.com/book/catedu/matematicas-y-las-tic",
+        "homepage": "https://catedu.gitbooks.io/matematicas-y-las-tic/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/matematicas-y-las-tic",
+        "edit": "https://legacy.gitbook.com/book/catedu/matematicas-y-las-tic/edit",
+        "content": "https://catedu.gitbooks.io/matematicas-y-las-tic/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/matematicas-y-las-tic",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/matematicas-y-las-tic",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/matematicas-y-las-tic"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 97,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-02-23T11:37:05.158Z",
+        "created": "2017-11-02T08:14:15.067Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/mejorar-la-sintaxis-con-las-tic",
+      "status": "published",
+      "name": "mejorar-la-sintaxis-con-las-tic",
+      "title": "Mejorar la sintaxis con las TIC",
+      "description": "Curso que aborda el aprendizaje de la sintaxis desde el enfoque de Flipped Classroom.",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/mejorar-la-sintaxis-con-las-tic.jpg?build=1519385915890",
+        "small": "/cover/book/catedu/mejorar-la-sintaxis-con-las-tic.jpg?build=1519385915890&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/mejorar-la-sintaxis-con-las-tic.git",
+        "access": "https://legacy.gitbook.com/book/catedu/mejorar-la-sintaxis-con-las-tic",
+        "homepage": "https://catedu.gitbooks.io/mejorar-la-sintaxis-con-las-tic/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/mejorar-la-sintaxis-con-las-tic",
+        "edit": "https://legacy.gitbook.com/book/catedu/mejorar-la-sintaxis-con-las-tic/edit",
+        "content": "https://catedu.gitbooks.io/mejorar-la-sintaxis-con-las-tic/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/mejorar-la-sintaxis-con-las-tic",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/mejorar-la-sintaxis-con-las-tic",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/mejorar-la-sintaxis-con-las-tic"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 24,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-02-23T11:38:35.890Z",
+        "created": "2017-11-02T13:23:11.795Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/el-procedimiento-administrativo",
+      "status": "published",
+      "name": "el-procedimiento-administrativo",
+      "title": "El procedimiento administrativo",
+      "description": "Curso de procedimiento administrativo para docentes.",
+      "public": true,
+      "template": "github",
+      "topics": [
+        "procedimiento-administrativo",
+        "administracion"
+      ],
+      "license": "cc-by-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/el-procedimiento-administrativo.jpg?build=1519380838299",
+        "small": "/cover/book/catedu/el-procedimiento-administrativo.jpg?build=1519380838299&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/el-procedimiento-administrativo.git",
+        "access": "https://legacy.gitbook.com/book/catedu/el-procedimiento-administrativo",
+        "homepage": "https://catedu.gitbooks.io/el-procedimiento-administrativo/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/el-procedimiento-administrativo",
+        "edit": "https://legacy.gitbook.com/book/catedu/el-procedimiento-administrativo/edit",
+        "content": "https://catedu.gitbooks.io/el-procedimiento-administrativo/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/el-procedimiento-administrativo",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/el-procedimiento-administrativo",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/el-procedimiento-administrativo"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 5,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-02-23T10:13:58.299Z",
+        "created": "2017-11-07T09:02:03.796Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/curso-de-tutores",
+      "status": "published",
+      "name": "curso-de-tutores",
+      "title": "Curso de tutores",
+      "description": "Curso para tutores de Aularagón",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/curso-de-tutores.jpg?build=1525941981865",
+        "small": "/cover/book/catedu/curso-de-tutores.jpg?build=1525941981865&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/curso-de-tutores.git",
+        "access": "https://legacy.gitbook.com/book/catedu/curso-de-tutores",
+        "homepage": "https://catedu.gitbooks.io/curso-de-tutores/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/curso-de-tutores",
+        "edit": "https://legacy.gitbook.com/book/catedu/curso-de-tutores/edit",
+        "content": "https://catedu.gitbooks.io/curso-de-tutores/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/curso-de-tutores",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/curso-de-tutores",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/curso-de-tutores"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 12,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-05-10T08:46:21.865Z",
+        "created": "2017-11-14T12:42:59.054Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/manual-de-creadores",
+      "status": "published",
+      "name": "manual-de-creadores",
+      "title": "Manual de creadores",
+      "description": "Manual de creadores de cursos de Aularagón",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/manual-de-creadores.jpg?build=1519385775742",
+        "small": "/cover/book/catedu/manual-de-creadores.jpg?build=1519385775742&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/manual-de-creadores.git",
+        "access": "https://legacy.gitbook.com/book/catedu/manual-de-creadores",
+        "homepage": "https://catedu.gitbooks.io/manual-de-creadores/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/manual-de-creadores",
+        "edit": "https://legacy.gitbook.com/book/catedu/manual-de-creadores/edit",
+        "content": "https://catedu.gitbooks.io/manual-de-creadores/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/manual-de-creadores",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/manual-de-creadores",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/manual-de-creadores"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 12,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-02-23T11:36:15.742Z",
+        "created": "2017-11-14T13:08:13.214Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/metodologias-activas-didactica-y-evaluacion",
+      "status": "published",
+      "name": "metodologias-activas-didactica-y-evaluacion",
+      "title": "Metodologías activas: Didáctica y evaluación.",
+      "description": "",
+      "public": true,
+      "template": "convert",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/metodologias-activas-didactica-y-evaluacion.jpg?build=1528184577756",
+        "small": "/cover/book/catedu/metodologias-activas-didactica-y-evaluacion.jpg?build=1528184577756&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/metodologias-activas-didactica-y-evaluacion.git",
+        "access": "https://legacy.gitbook.com/book/catedu/metodologias-activas-didactica-y-evaluacion",
+        "homepage": "https://catedu.gitbooks.io/metodologias-activas-didactica-y-evaluacion/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/metodologias-activas-didactica-y-evaluacion",
+        "edit": "https://legacy.gitbook.com/book/catedu/metodologias-activas-didactica-y-evaluacion/edit",
+        "content": "https://catedu.gitbooks.io/metodologias-activas-didactica-y-evaluacion/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/metodologias-activas-didactica-y-evaluacion",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/metodologias-activas-didactica-y-evaluacion",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/metodologias-activas-didactica-y-evaluacion"
+        }
+      },
+      "counts": {
+        "stars": 1,
+        "subscriptions": 4,
+        "updates": 12,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-06-05T07:42:57.756Z",
+        "created": "2017-11-21T12:24:50.255Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/curso-para-administradores-de-abiesweb",
+      "status": "published",
+      "name": "curso-para-administradores-de-abiesweb",
+      "title": "Curso para administradores de AbiesWeb",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/curso-para-administradores-de-abiesweb.jpg?build=1519380341201",
+        "small": "/cover/book/catedu/curso-para-administradores-de-abiesweb.jpg?build=1519380341201&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/curso-para-administradores-de-abiesweb.git",
+        "access": "https://legacy.gitbook.com/book/catedu/curso-para-administradores-de-abiesweb",
+        "homepage": "https://catedu.gitbooks.io/curso-para-administradores-de-abiesweb/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/curso-para-administradores-de-abiesweb",
+        "edit": "https://legacy.gitbook.com/book/catedu/curso-para-administradores-de-abiesweb/edit",
+        "content": "https://catedu.gitbooks.io/curso-para-administradores-de-abiesweb/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/curso-para-administradores-de-abiesweb",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/curso-para-administradores-de-abiesweb",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/curso-para-administradores-de-abiesweb"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 3,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-02-23T10:05:41.201Z",
+        "created": "2017-11-23T12:08:20.968Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/la-radio-en-la-escuela",
+      "status": "published",
+      "name": "la-radio-en-la-escuela",
+      "title": "La radio en la escuela",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/la-radio-en-la-escuela.jpg?build=1519381740888",
+        "small": "/cover/book/catedu/la-radio-en-la-escuela.jpg?build=1519381740888&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/la-radio-en-la-escuela.git",
+        "access": "https://legacy.gitbook.com/book/catedu/la-radio-en-la-escuela",
+        "homepage": "https://catedu.gitbooks.io/la-radio-en-la-escuela/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/la-radio-en-la-escuela",
+        "edit": "https://legacy.gitbook.com/book/catedu/la-radio-en-la-escuela/edit",
+        "content": "https://catedu.gitbooks.io/la-radio-en-la-escuela/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/la-radio-en-la-escuela",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/la-radio-en-la-escuela",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/la-radio-en-la-escuela"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 3,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-02-23T10:29:00.888Z",
+        "created": "2017-11-23T12:14:15.919Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/app-inventor",
+      "status": "published",
+      "name": "app-inventor",
+      "title": "App Inventor",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/app-inventor.jpg?build=1520845673694",
+        "small": "/cover/book/catedu/app-inventor.jpg?build=1520845673694&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/app-inventor.git",
+        "access": "https://legacy.gitbook.com/book/catedu/app-inventor",
+        "homepage": "https://catedu.gitbooks.io/app-inventor/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/app-inventor",
+        "edit": "https://legacy.gitbook.com/book/catedu/app-inventor/edit",
+        "content": "https://catedu.gitbooks.io/app-inventor/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/app-inventor",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/app-inventor",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/app-inventor"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 12,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-03-12T09:07:53.694Z",
+        "created": "2017-11-23T12:15:13.503Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/abiesweb-para-usuarios-lectores",
+      "status": "published",
+      "name": "abiesweb-para-usuarios-lectores",
+      "title": "Abiesweb para Usuarios Lectores",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/abiesweb-para-usuarios-lectores.jpg?build=1519385483602",
+        "small": "/cover/book/catedu/abiesweb-para-usuarios-lectores.jpg?build=1519385483602&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/abiesweb-para-usuarios-lectores.git",
+        "access": "https://legacy.gitbook.com/book/catedu/abiesweb-para-usuarios-lectores",
+        "homepage": "https://catedu.gitbooks.io/abiesweb-para-usuarios-lectores/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/abiesweb-para-usuarios-lectores",
+        "edit": "https://legacy.gitbook.com/book/catedu/abiesweb-para-usuarios-lectores/edit",
+        "content": "https://catedu.gitbooks.io/abiesweb-para-usuarios-lectores/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/abiesweb-para-usuarios-lectores",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/abiesweb-para-usuarios-lectores",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/abiesweb-para-usuarios-lectores"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 3,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-02-23T11:31:23.602Z",
+        "created": "2017-11-23T12:24:35.808Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/edicion-de-video-tutoriales",
+      "status": "published",
+      "name": "edicion-de-video-tutoriales",
+      "title": "Edición de video tutoriales",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-nc-nd-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/edicion-de-video-tutoriales.jpg?build=1519380779026",
+        "small": "/cover/book/catedu/edicion-de-video-tutoriales.jpg?build=1519380779026&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/edicion-de-video-tutoriales.git",
+        "access": "https://legacy.gitbook.com/book/catedu/edicion-de-video-tutoriales",
+        "homepage": "https://catedu.gitbooks.io/edicion-de-video-tutoriales/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/edicion-de-video-tutoriales",
+        "edit": "https://legacy.gitbook.com/book/catedu/edicion-de-video-tutoriales/edit",
+        "content": "https://catedu.gitbooks.io/edicion-de-video-tutoriales/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/edicion-de-video-tutoriales",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/edicion-de-video-tutoriales",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/edicion-de-video-tutoriales"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 10,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-02-23T10:12:59.026Z",
+        "created": "2017-11-23T12:37:08.052Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/modulo-1-marco-basico-legislativo",
+      "status": "published",
+      "name": "modulo-1-marco-basico-legislativo",
+      "title": "Módulo 1: Marco básico legislativo",
+      "description": "",
+      "public": true,
+      "template": "convert",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/modulo-1-marco-basico-legislativo.jpg?build=1528195514534",
+        "small": "/cover/book/catedu/modulo-1-marco-basico-legislativo.jpg?build=1528195514534&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/modulo-1-marco-basico-legislativo.git",
+        "access": "https://legacy.gitbook.com/book/catedu/modulo-1-marco-basico-legislativo",
+        "homepage": "https://catedu.gitbooks.io/modulo-1-marco-basico-legislativo/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/modulo-1-marco-basico-legislativo",
+        "edit": "https://legacy.gitbook.com/book/catedu/modulo-1-marco-basico-legislativo/edit",
+        "content": "https://catedu.gitbooks.io/modulo-1-marco-basico-legislativo/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/modulo-1-marco-basico-legislativo",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/modulo-1-marco-basico-legislativo",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/modulo-1-marco-basico-legislativo"
+        }
+      },
+      "counts": {
+        "stars": 1,
+        "subscriptions": 2,
+        "updates": 18,
+        "discussions": 4,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-06-05T10:45:14.534Z",
+        "created": "2017-11-24T08:25:09.484Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/ensena-pensamiento-computacional-con-arduino",
+      "status": "published",
+      "name": "ensena-pensamiento-computacional-con-arduino",
+      "title": "Enseña pensamiento computacional con Arduino",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/ensena-pensamiento-computacional-con-arduino.jpg?build=1524220261129",
+        "small": "/cover/book/catedu/ensena-pensamiento-computacional-con-arduino.jpg?build=1524220261129&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/ensena-pensamiento-computacional-con-arduino.git",
+        "access": "https://legacy.gitbook.com/book/catedu/ensena-pensamiento-computacional-con-arduino",
+        "homepage": "https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-arduino/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/ensena-pensamiento-computacional-con-arduino",
+        "edit": "https://legacy.gitbook.com/book/catedu/ensena-pensamiento-computacional-con-arduino/edit",
+        "content": "https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-arduino/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/ensena-pensamiento-computacional-con-arduino",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/ensena-pensamiento-computacional-con-arduino",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/ensena-pensamiento-computacional-con-arduino"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 44,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-04-20T10:31:01.129Z",
+        "created": "2017-11-29T10:28:58.441Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/ensena-pensamiento-computacional-con-lego-wedo",
+      "status": "published",
+      "name": "ensena-pensamiento-computacional-con-lego-wedo",
+      "title": "Enseña pensamiento computacional con Lego Wedo",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/ensena-pensamiento-computacional-con-lego-wedo.jpg?build=1525670581209",
+        "small": "/cover/book/catedu/ensena-pensamiento-computacional-con-lego-wedo.jpg?build=1525670581209&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/ensena-pensamiento-computacional-con-lego-wedo.git",
+        "access": "https://legacy.gitbook.com/book/catedu/ensena-pensamiento-computacional-con-lego-wedo",
+        "homepage": "https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-lego-wedo/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/ensena-pensamiento-computacional-con-lego-wedo",
+        "edit": "https://legacy.gitbook.com/book/catedu/ensena-pensamiento-computacional-con-lego-wedo/edit",
+        "content": "https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-lego-wedo/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/ensena-pensamiento-computacional-con-lego-wedo",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/ensena-pensamiento-computacional-con-lego-wedo",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/ensena-pensamiento-computacional-con-lego-wedo"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 21,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-05-07T05:23:01.209Z",
+        "created": "2017-11-30T10:36:26.977Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/ensena-pensamiento-computacional-con-scratch",
+      "status": "published",
+      "name": "ensena-pensamiento-computacional-con-scratch",
+      "title": "Enseña pensamiento computacional con Scratch",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/ensena-pensamiento-computacional-con-scratch.jpg?build=1520352188018",
+        "small": "/cover/book/catedu/ensena-pensamiento-computacional-con-scratch.jpg?build=1520352188018&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/ensena-pensamiento-computacional-con-scratch.git",
+        "access": "https://legacy.gitbook.com/book/catedu/ensena-pensamiento-computacional-con-scratch",
+        "homepage": "https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-scratch/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/ensena-pensamiento-computacional-con-scratch",
+        "edit": "https://legacy.gitbook.com/book/catedu/ensena-pensamiento-computacional-con-scratch/edit",
+        "content": "https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-scratch/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/ensena-pensamiento-computacional-con-scratch",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/ensena-pensamiento-computacional-con-scratch",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/ensena-pensamiento-computacional-con-scratch"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 11,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-03-06T16:03:08.018Z",
+        "created": "2017-11-30T12:24:04.179Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/scratch-avanzado-y-makey-makey",
+      "status": "published",
+      "name": "scratch-avanzado-y-makey-makey",
+      "title": "Scratch avanzado y Makey-Makey",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/scratch-avanzado-y-makey-makey.jpg?build=1520430310596",
+        "small": "/cover/book/catedu/scratch-avanzado-y-makey-makey.jpg?build=1520430310596&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/scratch-avanzado-y-makey-makey.git",
+        "access": "https://legacy.gitbook.com/book/catedu/scratch-avanzado-y-makey-makey",
+        "homepage": "https://catedu.gitbooks.io/scratch-avanzado-y-makey-makey/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/scratch-avanzado-y-makey-makey",
+        "edit": "https://legacy.gitbook.com/book/catedu/scratch-avanzado-y-makey-makey/edit",
+        "content": "https://catedu.gitbooks.io/scratch-avanzado-y-makey-makey/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/scratch-avanzado-y-makey-makey",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/scratch-avanzado-y-makey-makey",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/scratch-avanzado-y-makey-makey"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 17,
+        "discussions": 2,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-03-07T13:45:10.596Z",
+        "created": "2017-12-01T13:16:14.531Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/introduccion-a-python",
+      "status": "published",
+      "name": "introduccion-a-python",
+      "title": "Introducción a Python",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/introduccion-a-python.jpg?build=1519381528325",
+        "small": "/cover/book/catedu/introduccion-a-python.jpg?build=1519381528325&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/introduccion-a-python.git",
+        "access": "https://legacy.gitbook.com/book/catedu/introduccion-a-python",
+        "homepage": "https://catedu.gitbooks.io/introduccion-a-python/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/introduccion-a-python",
+        "edit": "https://legacy.gitbook.com/book/catedu/introduccion-a-python/edit",
+        "content": "https://catedu.gitbooks.io/introduccion-a-python/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/introduccion-a-python",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/introduccion-a-python",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/introduccion-a-python"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 7,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-02-23T10:25:28.325Z",
+        "created": "2017-12-01T13:20:17.539Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/libreoffice-la-suite-ofimatica-libre",
+      "status": "published",
+      "name": "libreoffice-la-suite-ofimatica-libre",
+      "title": "LibreOffice: La suite ofimática libre",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/libreoffice-la-suite-ofimatica-libre.jpg?build=1520847215637",
+        "small": "/cover/book/catedu/libreoffice-la-suite-ofimatica-libre.jpg?build=1520847215637&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/libreoffice-la-suite-ofimatica-libre.git",
+        "access": "https://legacy.gitbook.com/book/catedu/libreoffice-la-suite-ofimatica-libre",
+        "homepage": "https://catedu.gitbooks.io/libreoffice-la-suite-ofimatica-libre/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/libreoffice-la-suite-ofimatica-libre",
+        "edit": "https://legacy.gitbook.com/book/catedu/libreoffice-la-suite-ofimatica-libre/edit",
+        "content": "https://catedu.gitbooks.io/libreoffice-la-suite-ofimatica-libre/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/libreoffice-la-suite-ofimatica-libre",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/libreoffice-la-suite-ofimatica-libre",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/libreoffice-la-suite-ofimatica-libre"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 29,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-03-12T09:33:35.637Z",
+        "created": "2017-12-04T10:15:02.082Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/libreoffice-base",
+      "status": "published",
+      "name": "libreoffice-base",
+      "title": "LibreOffice Base",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/libreoffice-base.jpg?build=1520849932834",
+        "small": "/cover/book/catedu/libreoffice-base.jpg?build=1520849932834&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/libreoffice-base.git",
+        "access": "https://legacy.gitbook.com/book/catedu/libreoffice-base",
+        "homepage": "https://catedu.gitbooks.io/libreoffice-base/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/libreoffice-base",
+        "edit": "https://legacy.gitbook.com/book/catedu/libreoffice-base/edit",
+        "content": "https://catedu.gitbooks.io/libreoffice-base/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/libreoffice-base",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/libreoffice-base",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/libreoffice-base"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 11,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-03-12T10:18:52.834Z",
+        "created": "2017-12-05T13:22:13.722Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/libreoffice-writer",
+      "status": "published",
+      "name": "libreoffice-writer",
+      "title": "LibreOffice Writer",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/libreoffice-writer.jpg?build=1520849711299",
+        "small": "/cover/book/catedu/libreoffice-writer.jpg?build=1520849711299&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/libreoffice-writer.git",
+        "access": "https://legacy.gitbook.com/book/catedu/libreoffice-writer",
+        "homepage": "https://catedu.gitbooks.io/libreoffice-writer/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/libreoffice-writer",
+        "edit": "https://legacy.gitbook.com/book/catedu/libreoffice-writer/edit",
+        "content": "https://catedu.gitbooks.io/libreoffice-writer/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/libreoffice-writer",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/libreoffice-writer",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/libreoffice-writer"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 7,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-03-12T10:15:11.299Z",
+        "created": "2017-12-12T12:44:01.924Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/libreoffice-calc",
+      "status": "published",
+      "name": "libreoffice-calc",
+      "title": "LibreOffice Calc",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/libreoffice-calc.jpg?build=1520849433110",
+        "small": "/cover/book/catedu/libreoffice-calc.jpg?build=1520849433110&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/libreoffice-calc.git",
+        "access": "https://legacy.gitbook.com/book/catedu/libreoffice-calc",
+        "homepage": "https://catedu.gitbooks.io/libreoffice-calc/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/libreoffice-calc",
+        "edit": "https://legacy.gitbook.com/book/catedu/libreoffice-calc/edit",
+        "content": "https://catedu.gitbooks.io/libreoffice-calc/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/libreoffice-calc",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/libreoffice-calc",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/libreoffice-calc"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 6,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-03-12T10:10:33.110Z",
+        "created": "2017-12-12T12:51:44.948Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/libreoffice-impress",
+      "status": "published",
+      "name": "libreoffice-impress",
+      "title": "LibreOffice Impress",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/libreoffice-impress.jpg?build=1520849558652",
+        "small": "/cover/book/catedu/libreoffice-impress.jpg?build=1520849558652&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/libreoffice-impress.git",
+        "access": "https://legacy.gitbook.com/book/catedu/libreoffice-impress",
+        "homepage": "https://catedu.gitbooks.io/libreoffice-impress/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/libreoffice-impress",
+        "edit": "https://legacy.gitbook.com/book/catedu/libreoffice-impress/edit",
+        "content": "https://catedu.gitbooks.io/libreoffice-impress/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/libreoffice-impress",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/libreoffice-impress",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/libreoffice-impress"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 5,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-03-12T10:12:38.652Z",
+        "created": "2017-12-12T12:58:04.720Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/libreoffice-draw-y-math",
+      "status": "published",
+      "name": "libreoffice-draw-y-math",
+      "title": "LibreOffice Draw y Math",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/libreoffice-draw-y-math.jpg?build=1520848801207",
+        "small": "/cover/book/catedu/libreoffice-draw-y-math.jpg?build=1520848801207&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/libreoffice-draw-y-math.git",
+        "access": "https://legacy.gitbook.com/book/catedu/libreoffice-draw-y-math",
+        "homepage": "https://catedu.gitbooks.io/libreoffice-draw-y-math/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/libreoffice-draw-y-math",
+        "edit": "https://legacy.gitbook.com/book/catedu/libreoffice-draw-y-math/edit",
+        "content": "https://catedu.gitbooks.io/libreoffice-draw-y-math/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/libreoffice-draw-y-math",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/libreoffice-draw-y-math",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/libreoffice-draw-y-math"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 4,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-03-12T10:00:01.207Z",
+        "created": "2017-12-12T13:05:48.615Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/programa-arduino-mediante-codigo",
+      "status": "published",
+      "name": "programa-arduino-mediante-codigo",
+      "title": "Programa Arduino mediante código",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [
+        "arduino",
+        "programacion",
+        "edubasica"
+      ],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/programa-arduino-mediante-codigo.jpg?build=1528009616100",
+        "small": "/cover/book/catedu/programa-arduino-mediante-codigo.jpg?build=1528009616100&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/programa-arduino-mediante-codigo.git",
+        "access": "https://legacy.gitbook.com/book/catedu/programa-arduino-mediante-codigo",
+        "homepage": "https://catedu.gitbooks.io/programa-arduino-mediante-codigo/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/programa-arduino-mediante-codigo",
+        "edit": "https://legacy.gitbook.com/book/catedu/programa-arduino-mediante-codigo/edit",
+        "content": "https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/programa-arduino-mediante-codigo",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/programa-arduino-mediante-codigo",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/programa-arduino-mediante-codigo"
+        }
+      },
+      "counts": {
+        "stars": 1,
+        "subscriptions": 3,
+        "updates": 154,
+        "discussions": 8,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-06-03T07:06:56.100Z",
+        "created": "2017-12-13T13:05:23.191Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/robotica-educativa-con-mbot",
+      "status": "published",
+      "name": "robotica-educativa-con-mbot",
+      "title": "Robótica educativa con mBot",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/robotica-educativa-con-mbot.jpg?build=1525681813967",
+        "small": "/cover/book/catedu/robotica-educativa-con-mbot.jpg?build=1525681813967&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/robotica-educativa-con-mbot.git",
+        "access": "https://legacy.gitbook.com/book/catedu/robotica-educativa-con-mbot",
+        "homepage": "https://catedu.gitbooks.io/robotica-educativa-con-mbot/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/robotica-educativa-con-mbot",
+        "edit": "https://legacy.gitbook.com/book/catedu/robotica-educativa-con-mbot/edit",
+        "content": "https://catedu.gitbooks.io/robotica-educativa-con-mbot/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/robotica-educativa-con-mbot",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/robotica-educativa-con-mbot",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/robotica-educativa-con-mbot"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 49,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-05-07T08:30:13.967Z",
+        "created": "2017-12-14T12:13:19.496Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/robotica-educativa-con-mbot-ii",
+      "status": "published",
+      "name": "robotica-educativa-con-mbot-ii",
+      "title": "Robótica educativa con mBot II",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/robotica-educativa-con-mbot-ii.jpg?build=1524214226443",
+        "small": "/cover/book/catedu/robotica-educativa-con-mbot-ii.jpg?build=1524214226443&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/robotica-educativa-con-mbot-ii.git",
+        "access": "https://legacy.gitbook.com/book/catedu/robotica-educativa-con-mbot-ii",
+        "homepage": "https://catedu.gitbooks.io/robotica-educativa-con-mbot-ii/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/robotica-educativa-con-mbot-ii",
+        "edit": "https://legacy.gitbook.com/book/catedu/robotica-educativa-con-mbot-ii/edit",
+        "content": "https://catedu.gitbooks.io/robotica-educativa-con-mbot-ii/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/robotica-educativa-con-mbot-ii",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/robotica-educativa-con-mbot-ii",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/robotica-educativa-con-mbot-ii"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 42,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-04-20T08:50:26.443Z",
+        "created": "2017-12-14T12:18:57.759Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/robotica-en-infantil-con-bee-bot",
+      "status": "published",
+      "name": "robotica-en-infantil-con-bee-bot",
+      "title": "Robótica en infantil con Bee-Bot",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/robotica-en-infantil-con-bee-bot.jpg?build=1525681610405",
+        "small": "/cover/book/catedu/robotica-en-infantil-con-bee-bot.jpg?build=1525681610405&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/robotica-en-infantil-con-bee-bot.git",
+        "access": "https://legacy.gitbook.com/book/catedu/robotica-en-infantil-con-bee-bot",
+        "homepage": "https://catedu.gitbooks.io/robotica-en-infantil-con-bee-bot/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/robotica-en-infantil-con-bee-bot",
+        "edit": "https://legacy.gitbook.com/book/catedu/robotica-en-infantil-con-bee-bot/edit",
+        "content": "https://catedu.gitbooks.io/robotica-en-infantil-con-bee-bot/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/robotica-en-infantil-con-bee-bot",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/robotica-en-infantil-con-bee-bot",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/robotica-en-infantil-con-bee-bot"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 24,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-05-07T08:26:50.405Z",
+        "created": "2017-12-14T12:24:37.525Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/scribus-maqueta-visualmente-tus-contenidos-educat",
+      "status": "published",
+      "name": "scribus-maqueta-visualmente-tus-contenidos-educat",
+      "title": "Scribus: Maqueta visualmente tus contenidos educativos",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/scribus-maqueta-visualmente-tus-contenidos-educat.jpg?build=1528198326286",
+        "small": "/cover/book/catedu/scribus-maqueta-visualmente-tus-contenidos-educat.jpg?build=1528198326286&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/scribus-maqueta-visualmente-tus-contenidos-educat.git",
+        "access": "https://legacy.gitbook.com/book/catedu/scribus-maqueta-visualmente-tus-contenidos-educat",
+        "homepage": "https://catedu.gitbooks.io/scribus-maqueta-visualmente-tus-contenidos-educat/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/scribus-maqueta-visualmente-tus-contenidos-educat",
+        "edit": "https://legacy.gitbook.com/book/catedu/scribus-maqueta-visualmente-tus-contenidos-educat/edit",
+        "content": "https://catedu.gitbooks.io/scribus-maqueta-visualmente-tus-contenidos-educat/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/scribus-maqueta-visualmente-tus-contenidos-educat",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/scribus-maqueta-visualmente-tus-contenidos-educat",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/scribus-maqueta-visualmente-tus-contenidos-educat"
+        }
+      },
+      "counts": {
+        "stars": 2,
+        "subscriptions": 3,
+        "updates": 11,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-06-05T11:32:06.286Z",
+        "created": "2017-12-14T12:38:14.794Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/aprendizaje-colaborativo-con-blog",
+      "status": "published",
+      "name": "aprendizaje-colaborativo-con-blog",
+      "title": "Aprendizaje colaborativo con Blog",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [
+        "blog",
+        "colaborativo",
+        "educacion",
+        "aprendizaje"
+      ],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/aprendizaje-colaborativo-con-blog.jpg?build=1528197101254",
+        "small": "/cover/book/catedu/aprendizaje-colaborativo-con-blog.jpg?build=1528197101254&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/aprendizaje-colaborativo-con-blog.git",
+        "access": "https://legacy.gitbook.com/book/catedu/aprendizaje-colaborativo-con-blog",
+        "homepage": "https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/aprendizaje-colaborativo-con-blog",
+        "edit": "https://legacy.gitbook.com/book/catedu/aprendizaje-colaborativo-con-blog/edit",
+        "content": "https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/aprendizaje-colaborativo-con-blog",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/aprendizaje-colaborativo-con-blog",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/aprendizaje-colaborativo-con-blog"
+        }
+      },
+      "counts": {
+        "stars": 1,
+        "subscriptions": 3,
+        "updates": 18,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-06-05T11:11:41.254Z",
+        "created": "2017-12-19T13:23:13.135Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/modulo-5-asesores",
+      "status": "published",
+      "name": "modulo-5-asesores",
+      "title": "Módulo 5: Los centros de formación del profesorado.",
+      "description": "Modulo 5 del itinerario formativo para los asesores de formación: Los centros de formación del profesorado.\n",
+      "public": true,
+      "template": "convert",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/modulo-5-asesores.jpg?build=1519989129127",
+        "small": "/cover/book/catedu/modulo-5-asesores.jpg?build=1519989129127&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/modulo-5-asesores.git",
+        "access": "https://legacy.gitbook.com/book/catedu/modulo-5-asesores",
+        "homepage": "https://catedu.gitbooks.io/modulo-5-asesores/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/modulo-5-asesores",
+        "edit": "https://legacy.gitbook.com/book/catedu/modulo-5-asesores/edit",
+        "content": "https://catedu.gitbooks.io/modulo-5-asesores/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/modulo-5-asesores",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/modulo-5-asesores",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/modulo-5-asesores"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 16,
+        "discussions": 2,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-03-02T11:12:09.127Z",
+        "created": "2017-12-20T09:27:10.787Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/atrevete-con-wordpress",
+      "status": "published",
+      "name": "atrevete-con-wordpress",
+      "title": "Atrévete con Wordpress",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/atrevete-con-wordpress.jpg?build=1528103480990",
+        "small": "/cover/book/catedu/atrevete-con-wordpress.jpg?build=1528103480990&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/atrevete-con-wordpress.git",
+        "access": "https://legacy.gitbook.com/book/catedu/atrevete-con-wordpress",
+        "homepage": "https://catedu.gitbooks.io/atrevete-con-wordpress/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/atrevete-con-wordpress",
+        "edit": "https://legacy.gitbook.com/book/catedu/atrevete-con-wordpress/edit",
+        "content": "https://catedu.gitbooks.io/atrevete-con-wordpress/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/atrevete-con-wordpress",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/atrevete-con-wordpress",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/atrevete-con-wordpress"
+        }
+      },
+      "counts": {
+        "stars": 1,
+        "subscriptions": 4,
+        "updates": 9,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-06-04T09:11:20.990Z",
+        "created": "2017-12-20T11:39:33.839Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/programa-arduino-con-echidna",
+      "status": "published",
+      "name": "programa-arduino-con-echidna",
+      "title": "Programa arduino con echidna",
+      "description": "",
+      "public": true,
+      "template": "convert",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/programa-arduino-con-echidna.jpg?build=1528004630043",
+        "small": "/cover/book/catedu/programa-arduino-con-echidna.jpg?build=1528004630043&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/programa-arduino-con-echidna.git",
+        "access": "https://legacy.gitbook.com/book/catedu/programa-arduino-con-echidna",
+        "homepage": "https://catedu.gitbooks.io/programa-arduino-con-echidna/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/programa-arduino-con-echidna",
+        "edit": "https://legacy.gitbook.com/book/catedu/programa-arduino-con-echidna/edit",
+        "content": "https://catedu.gitbooks.io/programa-arduino-con-echidna/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/programa-arduino-con-echidna",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/programa-arduino-con-echidna",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/programa-arduino-con-echidna"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 4,
+        "updates": 108,
+        "discussions": 2,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-06-03T05:43:50.043Z",
+        "created": "2017-12-22T11:40:26.928Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/arasaac",
+      "status": "published",
+      "name": "arasaac",
+      "title": "ARASAAC",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [
+        "arasaac",
+        "aumentativa",
+        "comunicacion"
+      ],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/arasaac.jpg?build=1519388335002",
+        "small": "/cover/book/catedu/arasaac.jpg?build=1519388335002&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/arasaac.git",
+        "access": "https://legacy.gitbook.com/book/catedu/arasaac",
+        "homepage": "https://catedu.gitbooks.io/arasaac/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/arasaac",
+        "edit": "https://legacy.gitbook.com/book/catedu/arasaac/edit",
+        "content": "https://catedu.gitbooks.io/arasaac/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/arasaac",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/arasaac",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/arasaac"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 4,
+        "updates": 7,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-02-23T12:18:55.002Z",
+        "created": "2018-01-08T13:27:17.040Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/m5-cofo-el-centro-educativo-y-la-formacion-del-pr",
+      "status": "updating_failed",
+      "name": "m5-cofo-el-centro-educativo-y-la-formacion-del-pr",
+      "title": "M5 COFO. EL CENTRO EDUCATIVO Y LA FORMACIÓN DEL PROFESORADO",
+      "description": "Módulo 5 del itinerario formativo de los COFO.",
+      "public": true,
+      "template": "convert",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/m5-cofo-el-centro-educativo-y-la-formacion-del-pr.jpg?build=1519377706676",
+        "small": "/cover/book/catedu/m5-cofo-el-centro-educativo-y-la-formacion-del-pr.jpg?build=1519377706676&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/m5-cofo-el-centro-educativo-y-la-formacion-del-pr.git",
+        "access": "https://legacy.gitbook.com/book/catedu/m5-cofo-el-centro-educativo-y-la-formacion-del-pr",
+        "homepage": "https://catedu.gitbooks.io/m5-cofo-el-centro-educativo-y-la-formacion-del-pr/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/m5-cofo-el-centro-educativo-y-la-formacion-del-pr",
+        "edit": "https://legacy.gitbook.com/book/catedu/m5-cofo-el-centro-educativo-y-la-formacion-del-pr/edit",
+        "content": "https://catedu.gitbooks.io/m5-cofo-el-centro-educativo-y-la-formacion-del-pr/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/m5-cofo-el-centro-educativo-y-la-formacion-del-pr",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/m5-cofo-el-centro-educativo-y-la-formacion-del-pr",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/m5-cofo-el-centro-educativo-y-la-formacion-del-pr"
+        }
+      },
+      "counts": {
+        "stars": 1,
+        "subscriptions": 5,
+        "updates": 17,
+        "discussions": 1,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-02-23T09:21:46.676Z",
+        "failed": "2018-06-04T09:14:33.161Z",
+        "created": "2018-01-16T09:35:22.242Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/m6-cofos",
+      "status": "published",
+      "name": "m6-cofos",
+      "title": "M6 COFOS",
+      "description": "Herramientas y habilidades sociales del coordinador de formación",
+      "public": true,
+      "template": "base",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/m6-cofos.jpg?build=1528105232150",
+        "small": "/cover/book/catedu/m6-cofos.jpg?build=1528105232150&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/m6-cofos.git",
+        "access": "https://legacy.gitbook.com/book/catedu/m6-cofos",
+        "homepage": "https://catedu.gitbooks.io/m6-cofos/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/m6-cofos",
+        "edit": "https://legacy.gitbook.com/book/catedu/m6-cofos/edit",
+        "content": "https://catedu.gitbooks.io/m6-cofos/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/m6-cofos",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/m6-cofos",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/m6-cofos"
+        }
+      },
+      "counts": {
+        "stars": 1,
+        "subscriptions": 2,
+        "updates": 32,
+        "discussions": 6,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-06-04T09:40:32.150Z",
+        "created": "2018-01-16T12:25:37.257Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/abp-para-profesores-de-fp",
+      "status": "published",
+      "name": "abp-para-profesores-de-fp",
+      "title": "ABP para profesores de FP",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [
+        "educacion",
+        "abp"
+      ],
+      "license": "cc-by-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/abp-para-profesores-de-fp.jpg?build=1519385698108",
+        "small": "/cover/book/catedu/abp-para-profesores-de-fp.jpg?build=1519385698108&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/abp-para-profesores-de-fp.git",
+        "access": "https://legacy.gitbook.com/book/catedu/abp-para-profesores-de-fp",
+        "homepage": "https://catedu.gitbooks.io/abp-para-profesores-de-fp/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/abp-para-profesores-de-fp",
+        "edit": "https://legacy.gitbook.com/book/catedu/abp-para-profesores-de-fp/edit",
+        "content": "https://catedu.gitbooks.io/abp-para-profesores-de-fp/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/abp-para-profesores-de-fp",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/abp-para-profesores-de-fp",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/abp-para-profesores-de-fp"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 4,
+        "updates": 22,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-02-23T11:34:58.108Z",
+        "created": "2018-01-17T10:38:55.159Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/m6-asesor-inteligencia-emocional-y-psicologia-pos",
+      "status": "published",
+      "name": "m6-asesor-inteligencia-emocional-y-psicologia-pos",
+      "title": "M6 ASESOR: Inteligencia emocional y psicología positiva",
+      "description": "Módulo6 del itinerario formativo para asesores de formación.",
+      "public": true,
+      "template": "convert",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/m6-asesor-inteligencia-emocional-y-psicologia-pos.jpg?build=1519385608948",
+        "small": "/cover/book/catedu/m6-asesor-inteligencia-emocional-y-psicologia-pos.jpg?build=1519385608948&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/m6-asesor-inteligencia-emocional-y-psicologia-pos.git",
+        "access": "https://legacy.gitbook.com/book/catedu/m6-asesor-inteligencia-emocional-y-psicologia-pos",
+        "homepage": "https://catedu.gitbooks.io/m6-asesor-inteligencia-emocional-y-psicologia-pos/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/m6-asesor-inteligencia-emocional-y-psicologia-pos",
+        "edit": "https://legacy.gitbook.com/book/catedu/m6-asesor-inteligencia-emocional-y-psicologia-pos/edit",
+        "content": "https://catedu.gitbooks.io/m6-asesor-inteligencia-emocional-y-psicologia-pos/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/m6-asesor-inteligencia-emocional-y-psicologia-pos",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/m6-asesor-inteligencia-emocional-y-psicologia-pos",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/m6-asesor-inteligencia-emocional-y-psicologia-pos"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 1,
+        "updates": 13,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-02-23T11:33:28.948Z",
+        "created": "2018-01-17T12:44:03.477Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/abp-aprendizaje-basado-en-proyectos",
+      "status": "published",
+      "name": "abp-aprendizaje-basado-en-proyectos",
+      "title": "ABP. Aprendizaje Basado en Proyectos",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [
+        "abp",
+        "educacion",
+        "metodologia"
+      ],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/abp-aprendizaje-basado-en-proyectos.jpg?build=1520257299800",
+        "small": "/cover/book/catedu/abp-aprendizaje-basado-en-proyectos.jpg?build=1520257299800&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/abp-aprendizaje-basado-en-proyectos.git",
+        "access": "https://legacy.gitbook.com/book/catedu/abp-aprendizaje-basado-en-proyectos",
+        "homepage": "https://catedu.gitbooks.io/abp-aprendizaje-basado-en-proyectos/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/abp-aprendizaje-basado-en-proyectos",
+        "edit": "https://legacy.gitbook.com/book/catedu/abp-aprendizaje-basado-en-proyectos/edit",
+        "content": "https://catedu.gitbooks.io/abp-aprendizaje-basado-en-proyectos/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/abp-aprendizaje-basado-en-proyectos",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/abp-aprendizaje-basado-en-proyectos",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/abp-aprendizaje-basado-en-proyectos"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 4,
+        "updates": 4,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-03-05T13:41:39.800Z",
+        "created": "2018-01-18T13:25:37.300Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/modulo-7-asesores-comunicacion-eficaz-y-oratoria",
+      "status": "published",
+      "name": "modulo-7-asesores-comunicacion-eficaz-y-oratoria",
+      "title": "Módulo 7: Asesores. Comunicación eficaz y oratoria.",
+      "description": "Comunicación eficaz ",
+      "public": true,
+      "template": "convert",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/modulo-7-asesores-comunicacion-eficaz-y-oratoria.jpg?build=1521563761856",
+        "small": "/cover/book/catedu/modulo-7-asesores-comunicacion-eficaz-y-oratoria.jpg?build=1521563761856&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/modulo-7-asesores-comunicacion-eficaz-y-oratoria.git",
+        "access": "https://legacy.gitbook.com/book/catedu/modulo-7-asesores-comunicacion-eficaz-y-oratoria",
+        "homepage": "https://catedu.gitbooks.io/modulo-7-asesores-comunicacion-eficaz-y-oratoria/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/modulo-7-asesores-comunicacion-eficaz-y-oratoria",
+        "edit": "https://legacy.gitbook.com/book/catedu/modulo-7-asesores-comunicacion-eficaz-y-oratoria/edit",
+        "content": "https://catedu.gitbooks.io/modulo-7-asesores-comunicacion-eficaz-y-oratoria/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/modulo-7-asesores-comunicacion-eficaz-y-oratoria",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/modulo-7-asesores-comunicacion-eficaz-y-oratoria",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/modulo-7-asesores-comunicacion-eficaz-y-oratoria"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 2,
+        "updates": 13,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-03-20T16:36:01.856Z",
+        "created": "2018-01-24T09:29:45.290Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/curso-vitalinux",
+      "status": "published",
+      "name": "curso-vitalinux",
+      "title": "Curso Vitalinux",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/curso-vitalinux.jpg?build=1521567231644",
+        "small": "/cover/book/catedu/curso-vitalinux.jpg?build=1521567231644&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/curso-vitalinux.git",
+        "access": "https://legacy.gitbook.com/book/catedu/curso-vitalinux",
+        "homepage": "https://catedu.gitbooks.io/curso-vitalinux/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/curso-vitalinux",
+        "edit": "https://legacy.gitbook.com/book/catedu/curso-vitalinux/edit",
+        "content": "https://catedu.gitbooks.io/curso-vitalinux/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/curso-vitalinux",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/curso-vitalinux",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/curso-vitalinux"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 4,
+        "updates": 40,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-03-20T17:33:51.644Z",
+        "created": "2018-01-26T11:50:38.551Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/soportes-informaticos-para-la-formacion-del-profe",
+      "status": "updating_failed",
+      "name": "soportes-informaticos-para-la-formacion-del-profe",
+      "title": "Soportes informáticos para la formación del profesorado",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [
+        "tic",
+        "educacion"
+      ],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/soportes-informaticos-para-la-formacion-del-profe.jpg?build=1527154928296",
+        "small": "/cover/book/catedu/soportes-informaticos-para-la-formacion-del-profe.jpg?build=1527154928296&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/soportes-informaticos-para-la-formacion-del-profe.git",
+        "access": "https://legacy.gitbook.com/book/catedu/soportes-informaticos-para-la-formacion-del-profe",
+        "homepage": "https://catedu.gitbooks.io/soportes-informaticos-para-la-formacion-del-profe/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/soportes-informaticos-para-la-formacion-del-profe",
+        "edit": "https://legacy.gitbook.com/book/catedu/soportes-informaticos-para-la-formacion-del-profe/edit",
+        "content": "https://catedu.gitbooks.io/soportes-informaticos-para-la-formacion-del-profe/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/soportes-informaticos-para-la-formacion-del-profe",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/soportes-informaticos-para-la-formacion-del-profe",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/soportes-informaticos-para-la-formacion-del-profe"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 52,
+        "discussions": 2,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-05-24T09:42:08.296Z",
+        "failed": "2018-05-24T09:42:31.480Z",
+        "created": "2018-02-06T14:45:18.643Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/curso-duolingo",
+      "status": "updating_failed",
+      "name": "curso-duolingo",
+      "title": "Curso Duolingo",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-nc-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/curso-duolingo.jpg?build=1519380256301",
+        "small": "/cover/book/catedu/curso-duolingo.jpg?build=1519380256301&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/curso-duolingo.git",
+        "access": "https://legacy.gitbook.com/book/catedu/curso-duolingo",
+        "homepage": "https://catedu.gitbooks.io/curso-duolingo/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/curso-duolingo",
+        "edit": "https://legacy.gitbook.com/book/catedu/curso-duolingo/edit",
+        "content": "https://catedu.gitbooks.io/curso-duolingo/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/curso-duolingo",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/curso-duolingo",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/curso-duolingo"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 5,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-02-23T10:04:16.301Z",
+        "failed": "2018-05-09T08:54:38.304Z",
+        "created": "2018-02-20T13:39:37.611Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    },
+    {
+      "id": "catedu/ensena-pensamiento-computacional-con-code-org",
+      "status": "published",
+      "name": "ensena-pensamiento-computacional-con-code-org",
+      "title": "Enseña pensamiento computacional con code.org",
+      "description": "",
+      "public": true,
+      "template": "github",
+      "topics": [],
+      "license": "cc-by-sa-4_0",
+      "language": "es",
+      "locked": false,
+      "cover": {
+        "large": "/cover/book/catedu/ensena-pensamiento-computacional-con-code-org.jpg?build=1519392333908",
+        "small": "/cover/book/catedu/ensena-pensamiento-computacional-con-code-org.jpg?build=1519392333908&size=small"
+      },
+      "urls": {
+        "git": "https://git.gitbook.com/catedu/ensena-pensamiento-computacional-con-code-org.git",
+        "access": "https://legacy.gitbook.com/book/catedu/ensena-pensamiento-computacional-con-code-org",
+        "homepage": "https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-code-org/",
+        "read": "https://legacy.gitbook.com/read/book/catedu/ensena-pensamiento-computacional-con-code-org",
+        "edit": "https://legacy.gitbook.com/book/catedu/ensena-pensamiento-computacional-con-code-org/edit",
+        "content": "https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-code-org/content/",
+        "download": {
+          "epub": "https://legacy.gitbook.com/download/epub/book/catedu/ensena-pensamiento-computacional-con-code-org",
+          "mobi": "https://legacy.gitbook.com/download/mobi/book/catedu/ensena-pensamiento-computacional-con-code-org",
+          "pdf": "https://legacy.gitbook.com/download/pdf/book/catedu/ensena-pensamiento-computacional-con-code-org"
+        }
+      },
+      "counts": {
+        "stars": 0,
+        "subscriptions": 3,
+        "updates": 3,
+        "discussions": 0,
+        "changeRequests": 0
+      },
+      "dates": {
+        "build": "2018-02-23T13:25:33.908Z",
+        "created": "2018-02-23T13:19:18.918Z"
+      },
+      "permissions": {
+        "edit": false,
+        "admin": false,
+        "important": false
+      },
+      "publish": {
+        "ebooks": true,
+        "defaultBranch": null,
+        "builder": null
+      },
+      "author": {
+        "id": "59b26d3de696a000314482e3",
+        "hasMigrated": false,
+        "type": "Organization",
+        "username": "catedu",
+        "name": "CATEDU",
+        "location": "Aragón",
+        "website": "http://web.catedu.es/webcatedu/",
+        "bio": "",
+        "urls": {
+          "profile": "https://legacy.gitbook.com/@catedu",
+          "avatar": "https://legacy.gitbook.com/@catedu/avatar",
+          "members": "https://legacy.gitbook.com/@catedu/members"
+        },
+        "permissions": {
+          "edit": null,
+          "admin": null
+        },
+        "dates": {
+          "created": "2017-09-08T10:13:17.793Z"
+        },
+        "counts": {},
+        "github": {
+          "username": "catedu"
+        }
+      }
+    }
+  ],
+  "total": 72,
+  "limit": 50,
+  "page": 0,
+  "pages": 2
+}
