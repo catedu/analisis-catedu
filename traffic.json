@@ -1,0 +1,2630 @@
+{
+    "0": {
+        "title": "Abiesweb para Usuarios Lectores",
+        "traffic": {
+            "total": 52,
+            "unique": 22,
+            "downloads": 3
+        },
+        "platforms": {
+            "list": [{
+                "id": "",
+                "label": "",
+                "total": 26,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 11,
+                "unique": 0
+            }, {
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 10,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 4,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 1,
+                "unique": 0
+            }]
+        }
+    },
+    "1": {
+        "title": "ABP. Aprendizaje Basado en Proyectos",
+        "traffic": {
+            "total": 8012,
+            "unique": 249,
+            "downloads": 82
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 6244,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 913,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 487,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 300,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 25,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 23,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 20,
+                "unique": 0
+            }]
+        }
+    },
+    "2": {
+        "title": "ABP para profesores de FP",
+        "traffic": {
+            "total": 5752,
+            "unique": 238,
+            "downloads": 33
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 4415,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 443,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 428,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 368,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 42,
+                "unique": 0
+            }, {
+                "id": "Samsung",
+                "label": "Samsung",
+                "total": 28,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 27,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 1,
+                "unique": 0
+            }]
+        }
+    },
+    "3": {
+        "title": "Alfabetizaciones m\u00faltiples, m\u00e1s all\u00e1 de la lectura",
+        "traffic": {},
+        "platforms": {
+            "list": []
+        }
+    },
+    "4": {
+        "title": "App Inventor",
+        "traffic": {
+            "total": 2842,
+            "unique": 182,
+            "downloads": 37
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 2474,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 175,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 66,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 64,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 46,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 11,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 6,
+                "unique": 0
+            }]
+        }
+    },
+    "5": {
+        "title": "Aprendizaje colaborativo con Blog",
+        "traffic": {
+            "total": 1405,
+            "unique": 97,
+            "downloads": 65
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 1071,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 155,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 78,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 37,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 29,
+                "unique": 0
+            }, {
+                "id": "Samsung",
+                "label": "Samsung",
+                "total": 15,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 14,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 6,
+                "unique": 0
+            }]
+        }
+    },
+    "6": {
+        "title": "ARASAAC",
+        "traffic": {
+            "total": 3459,
+            "unique": 136,
+            "downloads": 39
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 2874,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 244,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 208,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 86,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 40,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 7,
+                "unique": 0
+            }]
+        }
+    },
+    "7": {
+        "title": "Atr\u00e9vete con Wordpress",
+        "traffic": {
+            "total": 2816,
+            "unique": 158,
+            "downloads": 55
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 2293,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 202,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 197,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 90,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 32,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 2,
+                "unique": 0
+            }]
+        }
+    },
+    "8": {
+        "title": "Convivencia segura en la red.",
+        "traffic": {
+            "total": 5143,
+            "unique": 332,
+            "downloads": 92
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 3955,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 490,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 307,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 189,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 132,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 61,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 8,
+                "unique": 0
+            }, {
+                "id": "Samsung",
+                "label": "Samsung",
+                "total": 1,
+                "unique": 0
+            }]
+        }
+    },
+    "9": {
+        "title": "Curso b\u00e1sico de hojas de c\u00e1lculo",
+        "traffic": {
+            "total": 178,
+            "unique": 24,
+            "downloads": 22
+        },
+        "platforms": {
+            "list": [{
+                "id": "Linux",
+                "label": "Linux",
+                "total": 105,
+                "unique": 0
+            }, {
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 68,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 4,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 1,
+                "unique": 0
+            }]
+        }
+    },
+    "10": {
+        "title": "Curso de Edmodo",
+        "traffic": {
+            "total": 3888,
+            "unique": 388,
+            "downloads": 84
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 2859,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 476,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 328,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 104,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 80,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 28,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 10,
+                "unique": 0
+            }, {
+                "id": "Samsung",
+                "label": "Samsung",
+                "total": 3,
+                "unique": 0
+            }]
+        }
+    },
+    "11": {
+        "title": "Curso de Linux",
+        "traffic": {
+            "total": 5515,
+            "unique": 233,
+            "downloads": 27
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 3950,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 1045,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 368,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 108,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 42,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 2,
+                "unique": 0
+            }]
+        }
+    },
+    "12": {
+        "title": "Curso de tutores",
+        "traffic": {
+            "total": 1110,
+            "unique": 154,
+            "downloads": 14
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 803,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 120,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 63,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 47,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 46,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 28,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 3,
+                "unique": 0
+            }]
+        }
+    },
+    "13": {
+        "title": "Curso Duolingo",
+        "traffic": {
+            "total": 46,
+            "unique": 24,
+            "downloads": 17
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 21,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 15,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 9,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 1,
+                "unique": 0
+            }]
+        }
+    },
+    "14": {
+        "title": "Curso eTwinning",
+        "traffic": {
+            "total": 446,
+            "unique": 32,
+            "downloads": 5
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 272,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 143,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 16,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 14,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 1,
+                "unique": 0
+            }]
+        }
+    },
+    "15": {
+        "title": "Curso para administradores de AbiesWeb",
+        "traffic": {
+            "total": 50,
+            "unique": 20,
+            "downloads": 5
+        },
+        "platforms": {
+            "list": [{
+                "id": "",
+                "label": "",
+                "total": 30,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 10,
+                "unique": 0
+            }, {
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 8,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 1,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 1,
+                "unique": 0
+            }]
+        }
+    },
+    "16": {
+        "title": "Curso Vitalinux",
+        "traffic": {
+            "total": 2946,
+            "unique": 160,
+            "downloads": 24
+        },
+        "platforms": {
+            "list": [{
+                "id": "Linux",
+                "label": "Linux",
+                "total": 1547,
+                "unique": 0
+            }, {
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 971,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 298,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 77,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 53,
+                "unique": 0
+            }]
+        }
+    },
+    "17": {
+        "title": "Edici\u00f3n de video tutoriales",
+        "traffic": {
+            "total": 3369,
+            "unique": 191,
+            "downloads": 30
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 2637,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 346,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 164,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 144,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 61,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 14,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 3,
+                "unique": 0
+            }]
+        }
+    },
+    "18": {
+        "title": "El procedimiento administrativo",
+        "traffic": {
+            "total": 8085,
+            "unique": 469,
+            "downloads": 279
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 6404,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 782,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 518,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 143,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 113,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 66,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 57,
+                "unique": 0
+            }, {
+                "id": "Samsung",
+                "label": "Samsung",
+                "total": 2,
+                "unique": 0
+            }]
+        }
+    },
+    "19": {
+        "title": "Ense\u00f1a pensamiento computacional con Arduino",
+        "traffic": {
+            "total": 2615,
+            "unique": 171,
+            "downloads": 48
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 1543,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 471,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 251,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 200,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 70,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 68,
+                "unique": 0
+            }, {
+                "id": "Samsung",
+                "label": "Samsung",
+                "total": 7,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 5,
+                "unique": 0
+            }]
+        }
+    },
+    "20": {
+        "title": "Ense\u00f1a pensamiento computacional con code.org",
+        "traffic": {
+            "total": 148,
+            "unique": 31,
+            "downloads": 19
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 102,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 35,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 9,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 1,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 1,
+                "unique": 0
+            }]
+        }
+    },
+    "21": {
+        "title": "Ense\u00f1a pensamiento computacional con Lego Wedo",
+        "traffic": {
+            "total": 2106,
+            "unique": 100,
+            "downloads": 19
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 1681,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 191,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 133,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 48,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 38,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 14,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 1,
+                "unique": 0
+            }]
+        }
+    },
+    "22": {
+        "title": "Ense\u00f1a pensamiento computacional con Scratch",
+        "traffic": {
+            "total": 4466,
+            "unique": 177,
+            "downloads": 30
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 3568,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 278,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 258,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 147,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 92,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 60,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 39,
+                "unique": 0
+            }, {
+                "id": "Samsung",
+                "label": "Samsung",
+                "total": 24,
+                "unique": 0
+            }]
+        }
+    },
+    "23": {
+        "title": "Escornabots",
+        "traffic": {},
+        "platforms": {
+            "list": []
+        }
+    },
+    "24": {
+        "title": "ExeLearning y otras herramientas",
+        "traffic": {
+            "total": 207,
+            "unique": 18,
+            "downloads": 5
+        },
+        "platforms": {
+            "list": [{
+                "id": "Linux",
+                "label": "Linux",
+                "total": 114,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 66,
+                "unique": 0
+            }, {
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 27,
+                "unique": 0
+            }]
+        }
+    },
+    "25": {
+        "title": "FAQ Aularag\u00f3n",
+        "traffic": {
+            "total": 2655,
+            "unique": 1125,
+            "downloads": 5
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 1474,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 439,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 372,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 136,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 125,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 61,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 43,
+                "unique": 0
+            }, {
+                "id": "Samsung",
+                "label": "Samsung",
+                "total": 5,
+                "unique": 0
+            }]
+        }
+    },
+    "26": {
+        "title": "Formaci\u00f3n de entrada en Educaci\u00f3n de Personas Adultas",
+        "traffic": {
+            "total": 1,
+            "unique": 1,
+            "downloads": 0
+        },
+        "platforms": {
+            "list": [{
+                "id": "",
+                "label": "",
+                "total": 1,
+                "unique": 0
+            }]
+        }
+    },
+    "27": {
+        "title": "Google Classroom",
+        "traffic": {
+            "total": 14280,
+            "unique": 698,
+            "downloads": 196
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 11478,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 964,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 734,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 637,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 219,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 126,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 113,
+                "unique": 0
+            }, {
+                "id": "Samsung",
+                "label": "Samsung",
+                "total": 9,
+                "unique": 0
+            }]
+        }
+    },
+    "28": {
+        "title": "Internet B\u00e1sico",
+        "traffic": {},
+        "platforms": {
+            "list": []
+        }
+    },
+    "29": {
+        "title": "Introducci\u00f3n a Python",
+        "traffic": {
+            "total": 3650,
+            "unique": 116,
+            "downloads": 14
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 3092,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 171,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 151,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 111,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 71,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 36,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 16,
+                "unique": 0
+            }, {
+                "id": "Samsung",
+                "label": "Samsung",
+                "total": 2,
+                "unique": 0
+            }]
+        }
+    },
+    "30": {
+        "title": "La ense\u00f1anza-aprendizaje de la flauta escolar",
+        "traffic": {
+            "total": 7474,
+            "unique": 491,
+            "downloads": 74
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 5532,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 612,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 493,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 314,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 290,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 132,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 81,
+                "unique": 0
+            }, {
+                "id": "Samsung",
+                "label": "Samsung",
+                "total": 20,
+                "unique": 0
+            }]
+        }
+    },
+    "31": {
+        "title": "La radio en la escuela",
+        "traffic": {
+            "total": 2456,
+            "unique": 182,
+            "downloads": 21
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 1785,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 326,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 172,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 69,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 43,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 42,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 17,
+                "unique": 0
+            }, {
+                "id": "Samsung",
+                "label": "Samsung",
+                "total": 2,
+                "unique": 0
+            }]
+        }
+    },
+    "32": {
+        "title": "Las TIC en el aula",
+        "traffic": {},
+        "platforms": {
+            "list": []
+        }
+    },
+    "33": {
+        "title": "Las TIC en infantil",
+        "traffic": {},
+        "platforms": {
+            "list": []
+        }
+    },
+    "34": {
+        "title": "Lengua y Literatura con las TIC",
+        "traffic": {},
+        "platforms": {
+            "list": []
+        }
+    },
+    "35": {
+        "title": "Lenguas extranjeras con TIC",
+        "traffic": {},
+        "platforms": {
+            "list": []
+        }
+    },
+    "36": {
+        "title": "LibreOffice Base",
+        "traffic": {
+            "total": 585,
+            "unique": 56,
+            "downloads": 17
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 320,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 152,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 85,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 26,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 1,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 1,
+                "unique": 0
+            }]
+        }
+    },
+    "37": {
+        "title": "LibreOffice Calc",
+        "traffic": {
+            "total": 811,
+            "unique": 63,
+            "downloads": 15
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 541,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 154,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 99,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 9,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 7,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 1,
+                "unique": 0
+            }]
+        }
+    },
+    "38": {
+        "title": "LibreOffice Draw y Math",
+        "traffic": {
+            "total": 619,
+            "unique": 34,
+            "downloads": 16
+        },
+        "platforms": {
+            "list": [{
+                "id": "Linux",
+                "label": "Linux",
+                "total": 267,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 221,
+                "unique": 0
+            }, {
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 87,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 42,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 1,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 1,
+                "unique": 0
+            }]
+        }
+    },
+    "39": {
+        "title": "LibreOffice Impress",
+        "traffic": {
+            "total": 98,
+            "unique": 35,
+            "downloads": 7
+        },
+        "platforms": {
+            "list": [{
+                "id": "",
+                "label": "",
+                "total": 61,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 18,
+                "unique": 0
+            }, {
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 16,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 1,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 1,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 1,
+                "unique": 0
+            }]
+        }
+    },
+    "40": {
+        "title": "LibreOffice: La suite ofim\u00e1tica libre",
+        "traffic": {
+            "total": 1408,
+            "unique": 75,
+            "downloads": 25
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 750,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 375,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 196,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 77,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 7,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 3,
+                "unique": 0
+            }]
+        }
+    },
+    "41": {
+        "title": "LibreOffice Writer",
+        "traffic": {
+            "total": 90,
+            "unique": 37,
+            "downloads": 13
+        },
+        "platforms": {
+            "list": [{
+                "id": "",
+                "label": "",
+                "total": 35,
+                "unique": 0
+            }, {
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 30,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 22,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 1,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 1,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 1,
+                "unique": 0
+            }]
+        }
+    },
+    "42": {
+        "title": "M5 COFO. EL CENTRO EDUCATIVO Y LA FORMACI\u00d3N DEL PROFESORADO",
+        "traffic": {
+            "total": 2571,
+            "unique": 196,
+            "downloads": 117
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 1957,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 306,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 169,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 68,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 38,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 33,
+                "unique": 0
+            }]
+        }
+    },
+    "43": {
+        "title": "M6 ASESOR: Inteligencia emocional y psicolog\u00eda positiva",
+        "traffic": {
+            "total": 1383,
+            "unique": 140,
+            "downloads": 95
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 1092,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 129,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 101,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 33,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 14,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 8,
+                "unique": 0
+            }, {
+                "id": "Samsung",
+                "label": "Samsung",
+                "total": 6,
+                "unique": 0
+            }]
+        }
+    },
+    "44": {
+        "title": "M6 COFOS",
+        "traffic": {
+            "total": 4524,
+            "unique": 275,
+            "downloads": 108
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 3123,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 534,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 421,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 238,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 96,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 70,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 42,
+                "unique": 0
+            }]
+        }
+    },
+    "45": {
+        "title": "Manual de creadores",
+        "traffic": {
+            "total": 514,
+            "unique": 75,
+            "downloads": 4
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 273,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 152,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 36,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 29,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 15,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 5,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 4,
+                "unique": 0
+            }]
+        }
+    },
+    "46": {
+        "title": "Matem\u00e1ticas y las TIC",
+        "traffic": {
+            "total": 3206,
+            "unique": 256,
+            "downloads": 30
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 2881,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 164,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 65,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 52,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 39,
+                "unique": 0
+            }, {
+                "id": "Samsung",
+                "label": "Samsung",
+                "total": 4,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 1,
+                "unique": 0
+            }]
+        }
+    },
+    "47": {
+        "title": "Mejorar la sintaxis con las TIC",
+        "traffic": {
+            "total": 5409,
+            "unique": 332,
+            "downloads": 21
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 4307,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 418,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 332,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 159,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 128,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 36,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 27,
+                "unique": 0
+            }, {
+                "id": "Samsung",
+                "label": "Samsung",
+                "total": 2,
+                "unique": 0
+            }]
+        }
+    },
+    "48": {
+        "title": "Metodolog\u00edas activas: Did\u00e1ctica y evaluaci\u00f3n.",
+        "traffic": {
+            "total": 7103,
+            "unique": 393,
+            "downloads": 240
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 5200,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 955,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 397,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 303,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 167,
+                "unique": 0
+            }, {
+                "id": "Samsung",
+                "label": "Samsung",
+                "total": 39,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 33,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 9,
+                "unique": 0
+            }]
+        }
+    },
+    "49": {
+        "title": "M\u00f3dulo 1: Marco b\u00e1sico legislativo",
+        "traffic": {
+            "total": 11620,
+            "unique": 480,
+            "downloads": 197
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 9043,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 988,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 571,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 455,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 348,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 138,
+                "unique": 0
+            }, {
+                "id": "Samsung",
+                "label": "Samsung",
+                "total": 41,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 36,
+                "unique": 0
+            }]
+        }
+    },
+    "50": {
+        "title": "M\u00f3dulo 5: Los centros de formaci\u00f3n del profesorado.",
+        "traffic": {
+            "total": 1339,
+            "unique": 126,
+            "downloads": 85
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 1055,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 157,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 66,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 31,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 21,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 7,
+                "unique": 0
+            }, {
+                "id": "Samsung",
+                "label": "Samsung",
+                "total": 2,
+                "unique": 0
+            }]
+        }
+    },
+    "51": {
+        "title": "M\u00f3dulo 7: Asesores. Comunicaci\u00f3n eficaz y oratoria.",
+        "traffic": {
+            "total": 3048,
+            "unique": 148,
+            "downloads": 96
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 2466,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 295,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 119,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 108,
+                "unique": 0
+            }, {
+                "id": "Samsung",
+                "label": "Samsung",
+                "total": 25,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 19,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 16,
+                "unique": 0
+            }]
+        }
+    },
+    "52": {
+        "title": "Monta tu aula de inform\u00e1tica con Raspberry Pi",
+        "traffic": {
+            "total": 2973,
+            "unique": 350,
+            "downloads": 70
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 1754,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 629,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 211,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 174,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 137,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 38,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 30,
+                "unique": 0
+            }]
+        }
+    },
+    "53": {
+        "title": "Moodle para la ense\u00f1anza",
+        "traffic": {
+            "total": 198,
+            "unique": 18,
+            "downloads": 0
+        },
+        "platforms": {
+            "list": [{
+                "id": "",
+                "label": "",
+                "total": 104,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 68,
+                "unique": 0
+            }, {
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 26,
+                "unique": 0
+            }]
+        }
+    },
+    "54": {
+        "title": "Narrativa Digital en el Aula",
+        "traffic": {},
+        "platforms": {
+            "list": []
+        }
+    },
+    "55": {
+        "title": "Neuropsicolog\u00eda y Dificultados de Aprendizaje",
+        "traffic": {},
+        "platforms": {
+            "list": []
+        }
+    },
+    "56": {
+        "title": "Presentaciones con PowerPoint y otras herramientas",
+        "traffic": {
+            "error": "Server error",
+            "code": 500
+        },
+        "platforms": {
+            "error": "Server error",
+            "code": 500
+        }
+    },
+    "57": {
+        "title": "Primeros auxilios y patolog\u00edas cr\u00f3nicas",
+        "traffic": {},
+        "platforms": {
+            "list": []
+        }
+    },
+    "58": {
+        "title": "Programa arduino con echidna",
+        "traffic": {
+            "total": 5319,
+            "unique": 594,
+            "downloads": 29
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 2575,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 1691,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 398,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 214,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 178,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 137,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 116,
+                "unique": 0
+            }, {
+                "id": "Samsung",
+                "label": "Samsung",
+                "total": 9,
+                "unique": 0
+            }, {
+                "id": "Microsoft Windows Phone",
+                "label": "Microsoft Windows Phone",
+                "total": 1,
+                "unique": 0
+            }]
+        }
+    },
+    "59": {
+        "title": "Programa Arduino mediante c\u00f3digo",
+        "traffic": {
+            "total": 9095,
+            "unique": 435,
+            "downloads": 61
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 5811,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 1648,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 622,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 610,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 197,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 180,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 18,
+                "unique": 0
+            }, {
+                "id": "Samsung",
+                "label": "Samsung",
+                "total": 8,
+                "unique": 0
+            }, {
+                "id": "Microsoft Windows Phone",
+                "label": "Microsoft Windows Phone",
+                "total": 1,
+                "unique": 0
+            }]
+        }
+    },
+    "60": {
+        "title": "Programaci\u00f3n orientada a objetos-Java",
+        "traffic": {},
+        "platforms": {
+            "list": []
+        }
+    },
+    "61": {
+        "title": "Raspberry muy b\u00e1sico",
+        "traffic": {
+            "total": 318,
+            "unique": 68,
+            "downloads": 14
+        },
+        "platforms": {
+            "list": [{
+                "id": "Linux",
+                "label": "Linux",
+                "total": 146,
+                "unique": 0
+            }, {
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 95,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 35,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 16,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 10,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 10,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 5,
+                "unique": 0
+            }, {
+                "id": "Microsoft Windows Phone",
+                "label": "Microsoft Windows Phone",
+                "total": 1,
+                "unique": 0
+            }]
+        }
+    },
+    "62": {
+        "title": "Rob\u00f3tica educativa con mBot",
+        "traffic": {
+            "total": 2514,
+            "unique": 136,
+            "downloads": 30
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 1647,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 607,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 145,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 60,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 31,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 22,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 2,
+                "unique": 0
+            }]
+        }
+    },
+    "63": {
+        "title": "Rob\u00f3tica educativa con mBot II",
+        "traffic": {
+            "total": 696,
+            "unique": 59,
+            "downloads": 11
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 483,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 137,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 40,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 32,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 2,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 2,
+                "unique": 0
+            }]
+        }
+    },
+    "64": {
+        "title": "Rob\u00f3tica en infantil con Bee-Bot",
+        "traffic": {
+            "total": 715,
+            "unique": 71,
+            "downloads": 14
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 454,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 71,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 61,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 49,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 38,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 36,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 6,
+                "unique": 0
+            }]
+        }
+    },
+    "65": {
+        "title": "Science Fair Aragon 2018",
+        "traffic": {},
+        "platforms": {
+            "list": []
+        }
+    },
+    "66": {
+        "title": "Scratch avanzado y Makey-Makey",
+        "traffic": {
+            "total": 1050,
+            "unique": 70,
+            "downloads": 21
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 714,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 237,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 69,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 20,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 6,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 3,
+                "unique": 0
+            }, {
+                "id": "Samsung",
+                "label": "Samsung",
+                "total": 1,
+                "unique": 0
+            }]
+        }
+    },
+    "67": {
+        "title": "Scribus: Maqueta visualmente tus contenidos educativos",
+        "traffic": {
+            "total": 2656,
+            "unique": 127,
+            "downloads": 21
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 2134,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 337,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 62,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 45,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 44,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 32,
+                "unique": 0
+            }, {
+                "id": "Samsung",
+                "label": "Samsung",
+                "total": 2,
+                "unique": 0
+            }]
+        }
+    },
+    "68": {
+        "title": "Soportes inform\u00e1ticos para la formaci\u00f3n del profesorado",
+        "traffic": {
+            "total": 6568,
+            "unique": 321,
+            "downloads": 142
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 4300,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 909,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 869,
+                "unique": 0
+            }, {
+                "id": "Android",
+                "label": "Android",
+                "total": 268,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 116,
+                "unique": 0
+            }, {
+                "id": "iPhone",
+                "label": "iPhone",
+                "total": 54,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 48,
+                "unique": 0
+            }, {
+                "id": "Samsung",
+                "label": "Samsung",
+                "total": 4,
+                "unique": 0
+            }]
+        }
+    },
+    "69": {
+        "title": "Trabajo colaborativo con Google Drive",
+        "traffic": {
+            "total": 191,
+            "unique": 33,
+            "downloads": 24
+        },
+        "platforms": {
+            "list": [{
+                "id": "Microsoft Windows",
+                "label": "Microsoft Windows",
+                "total": 158,
+                "unique": 0
+            }, {
+                "id": "Linux",
+                "label": "Linux",
+                "total": 12,
+                "unique": 0
+            }, {
+                "id": "Apple Mac",
+                "label": "Apple Mac",
+                "total": 11,
+                "unique": 0
+            }, {
+                "id": "",
+                "label": "",
+                "total": 8,
+                "unique": 0
+            }, {
+                "id": "iPad",
+                "label": "iPad",
+                "total": 2,
+                "unique": 0
+            }]
+        }
+    },
+    "70": {
+        "title": "Tratamiento de la imagen para la ense\u00f1anza",
+        "traffic": {},
+        "platforms": {
+            "list": []
+        }
+    },
+    "71": {
+        "title": "Uso did\u00e1ctico de la PDI",
+        "traffic": {},
+        "platforms": {
+            "list": []
+        }
+    },
+    "72": {
+        "title": "Word avanzado y otras herramientas",
+        "traffic": {},
+        "platforms": {
+            "list": []
+        }
+    }
+}

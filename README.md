@@ -3,6 +3,7 @@
 Jupyter Notebook en el que analizo las ediciones recibidas en los repos de CATEDU y exploro la API de Gitbook y Github.
 
 * Preparar visualizaciones
+    * Número de visitas y plataforma de acceso
     * Relación entre fuentes de contenidos
     * Número de páginas
     * Evolución de los repos. Exponencial cuando se da permisos a los autores. De cuando el conocimiento y la motivación personal te pilla en el trabajo.

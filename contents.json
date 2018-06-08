@@ -1,0 +1,742 @@
+{
+    "version": "2",
+    "sections": [{
+        "type": "normal",
+        "content": "<h1 id=\"atr&#xE9;vete-con-wordpress\">Atr&#xE9;vete con Wordpress</h1>\n<p>Con este curso aprender&#xE1;s a manejar Wordpress desde el inicio, empezando por la creaci&#xF3;n de entradas, y llegando a configurar opciones m&#xE1;s avanzadas relativas a Wordpress.</p>\n<ul>\n<li>En el primer cap&#xED;tulo se explica el manejo esencial de un Wordpress, principalmente a trav&#xE9;s de la creaci&#xF3;n de entradas y p&#xE1;ginas, as&#xED; como detallando la gesti&#xF3;n de comentarios, usuarios, configuraci&#xF3;n, etc. </li>\n<li>En el cap&#xED;tulo de plugins se explica c&#xF3;mo incrementar de forma variada la funcionalidad de Wordpres a trav&#xE9;s de plugins. En caso que no tengas permiso para instalar los plugins que desees en tu wordpress, al menos servir&#xE1; para tener una visi&#xF3;n general sobre plugins.</li>\n<li>En el cap&#xED;tulo de seguridad se enfocan los conceptos y procedimientos m&#xE1;s apropiados para mejorar la seguridad de un sitio Wordpress, lo cual afecta principalmente a Wordpress que se encuentran instalados en un servidor de alojamiento web.</li>\n<li>En el cap&#xED;tulo de ampliaci&#xF3;n con HTML y CSS se muestra una pincelada de c&#xF3;mo modificar y mejorar el aspecto visual de Wordpress, aunque para ello se requerir&#xE1;n conocimientos sobre HTML y CSS, por lo que este cap&#xED;tulo queda totalmente opcional.</li>\n</ul>\n"
+    }],
+    "progress": {
+        "chapters": [{
+            "index": 0,
+            "title": "Introducción",
+            "introduction": true,
+            "next": {
+                "path": "objetivos.md",
+                "title": "Objetivos",
+                "level": "1.1.1",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "1.1",
+            "path": "README.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 1,
+            "title": "Objetivos",
+            "introduction": false,
+            "next": {
+                "path": "empezando-con-wordpress/que-es-wordpress.md",
+                "title": "Qué es Wordpress",
+                "level": "1.1.2",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "1.1.1",
+            "path": "objetivos.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 2,
+            "title": "Qué es Wordpress",
+            "introduction": false,
+            "next": {
+                "path": "empezando-con-wordpress/tipos-de-wordpress.md",
+                "title": "Tipos de Wordpress",
+                "level": "1.1.3",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "1.1.2",
+            "path": "empezando-con-wordpress/que-es-wordpress.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 3,
+            "title": "Tipos de Wordpress",
+            "introduction": false,
+            "next": {
+                "path": "empezando-con-wordpress/puesta-en-marcha.md",
+                "title": "Puesta en marcha",
+                "level": "1.2",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "1.1.3",
+            "path": "empezando-con-wordpress/tipos-de-wordpress.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 4,
+            "title": "Puesta en marcha",
+            "introduction": false,
+            "next": {
+                "path": "empezando-con-wordpress/crear-wordpress-en-wordpresscom.md",
+                "title": "Crear Wordpress en wordpress.com",
+                "level": "1.2.1",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "1.2",
+            "path": "empezando-con-wordpress/puesta-en-marcha.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 5,
+            "title": "Crear Wordpress en wordpress.com",
+            "introduction": false,
+            "next": {
+                "path": "empezando-con-wordpress/instalar-wordpress-en-000webhost.md",
+                "title": "Instalar Wordpress en 000webhost",
+                "level": "1.2.2",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "1.2.1",
+            "path": "empezando-con-wordpress/crear-wordpress-en-wordpresscom.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 6,
+            "title": "Instalar Wordpress en 000webhost",
+            "introduction": false,
+            "next": {
+                "path": "empezando-con-wordpress/instalar-wordpress-en-un-alojamiento-web.md",
+                "title": "Instalar Wordpress en otro alojamiento web",
+                "level": "1.2.3",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "1.2.2",
+            "path": "empezando-con-wordpress/instalar-wordpress-en-000webhost.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 7,
+            "title": "Instalar Wordpress en otro alojamiento web",
+            "introduction": false,
+            "next": {
+                "path": "empezando-con-wordpress/utilizando-wordpress.md",
+                "title": "Utilizando Wordpress",
+                "level": "1.3",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "1.2.3",
+            "path": "empezando-con-wordpress/instalar-wordpress-en-un-alojamiento-web.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 8,
+            "title": "Utilizando Wordpress",
+            "introduction": false,
+            "next": {
+                "path": "empezando-con-wordpress/nomenclatura.md",
+                "title": "Nomenclatura",
+                "level": "1.3.1",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "1.3",
+            "path": "empezando-con-wordpress/utilizando-wordpress.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 9,
+            "title": "Nomenclatura",
+            "introduction": false,
+            "next": {
+                "path": "empezando-con-wordpress/usuarios.md",
+                "title": "Gestión de usuarios",
+                "level": "1.3.2",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "1.3.1",
+            "path": "empezando-con-wordpress/nomenclatura.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 10,
+            "title": "Gestión de usuarios",
+            "introduction": false,
+            "next": {
+                "path": "empezando-con-wordpress/entradas.md",
+                "title": "Entradas",
+                "level": "1.3.3",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "1.3.2",
+            "path": "empezando-con-wordpress/usuarios.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 11,
+            "title": "Entradas",
+            "introduction": false,
+            "next": {
+                "path": "empezando-con-wordpress/paginas.md",
+                "title": "Páginas",
+                "level": "1.3.4",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "1.3.3",
+            "path": "empezando-con-wordpress/entradas.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 12,
+            "title": "Páginas",
+            "introduction": false,
+            "next": {
+                "path": "empezando-con-wordpress/medios.md",
+                "title": "Medios e imágenes",
+                "level": "1.3.5",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "1.3.4",
+            "path": "empezando-con-wordpress/paginas.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 13,
+            "title": "Medios e imágenes",
+            "introduction": false,
+            "next": {
+                "path": "empezando-con-wordpress/videos-embebidos.md",
+                "title": "Vídeos embebidos",
+                "level": "1.3.6",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "1.3.5",
+            "path": "empezando-con-wordpress/medios.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 14,
+            "title": "Vídeos embebidos",
+            "introduction": false,
+            "next": {
+                "path": "empezando-con-wordpress/categorias-etiquetas.md",
+                "title": "Categorías y Etiquetas",
+                "level": "1.3.7",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "1.3.6",
+            "path": "empezando-con-wordpress/videos-embebidos.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 15,
+            "title": "Categorías y Etiquetas",
+            "introduction": false,
+            "next": {
+                "path": "empezando-con-wordpress/menus.md",
+                "title": "Menús",
+                "level": "1.3.8",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "1.3.7",
+            "path": "empezando-con-wordpress/categorias-etiquetas.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 16,
+            "title": "Menús",
+            "introduction": false,
+            "next": {
+                "path": "empezando-con-wordpress/comentarios.md",
+                "title": "Comentarios y Pingbacks",
+                "level": "1.3.9",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "1.3.8",
+            "path": "empezando-con-wordpress/menus.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 17,
+            "title": "Comentarios y Pingbacks",
+            "introduction": false,
+            "next": {
+                "path": "empezando-con-wordpress/temas.md",
+                "title": "Temas",
+                "level": "1.3.10",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "1.3.9",
+            "path": "empezando-con-wordpress/comentarios.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 18,
+            "title": "Temas",
+            "introduction": false,
+            "next": {
+                "path": "empezando-con-wordpress/usuarios.md",
+                "title": "Gestión de usuarios",
+                "level": "1.3.11",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "1.3.10",
+            "path": "empezando-con-wordpress/temas.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 19,
+            "title": "Gestión de usuarios",
+            "introduction": false,
+            "next": {
+                "path": "empezando-con-wordpress/mas-configuraciones.md",
+                "title": "Más configuraciones",
+                "level": "1.3.12",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "1.3.11",
+            "path": "empezando-con-wordpress/usuarios.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 20,
+            "title": "Más configuraciones",
+            "introduction": false,
+            "next": {
+                "path": "plugins/plugins.md",
+                "title": "Plugins",
+                "level": "2.1",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "1.3.12",
+            "path": "empezando-con-wordpress/mas-configuraciones.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 21,
+            "title": "Plugins",
+            "introduction": false,
+            "next": {
+                "path": "plugins/instalar-y-desinstalar-plugins.md",
+                "title": "Instalar y desinstalar plugins",
+                "level": "2.1.1",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "2.1",
+            "path": "plugins/plugins.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 22,
+            "title": "Instalar y desinstalar plugins",
+            "introduction": false,
+            "next": {
+                "path": "plugins/plugins-de-wordpress-de-catedu.md",
+                "title": "Plugins de Wordpress de CATEDU",
+                "level": "2.1.2",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "2.1.1",
+            "path": "plugins/instalar-y-desinstalar-plugins.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 23,
+            "title": "Plugins de Wordpress de CATEDU",
+            "introduction": false,
+            "next": {
+                "path": "plugins/jetpack.md",
+                "title": "Jetpack",
+                "level": "2.1.3",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "2.1.2",
+            "path": "plugins/plugins-de-wordpress-de-catedu.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 24,
+            "title": "Jetpack",
+            "introduction": false,
+            "next": {
+                "path": "plugins/redes-sociales.md",
+                "title": "Redes sociales",
+                "level": "2.1.4",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "2.1.3",
+            "path": "plugins/jetpack.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 25,
+            "title": "Redes sociales",
+            "introduction": false,
+            "next": {
+                "path": "plugins/shortcodes.md",
+                "title": "Shortcodes",
+                "level": "2.1.5",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "2.1.4",
+            "path": "plugins/redes-sociales.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 26,
+            "title": "Shortcodes",
+            "introduction": false,
+            "next": {
+                "path": "plugins/mas-funcionalidad-con-plugins.md",
+                "title": "Más funcionalidad con plugins",
+                "level": "2.1.6",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "2.1.5",
+            "path": "plugins/shortcodes.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 27,
+            "title": "Más funcionalidad con plugins",
+            "introduction": false,
+            "next": {
+                "path": "plugins/restringir-zona-de-publicacion-a-usuarios.md",
+                "title": "Restringir zona de publicación a usuarios",
+                "level": "2.1.7",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "2.1.6",
+            "path": "plugins/mas-funcionalidad-con-plugins.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 28,
+            "title": "Restringir zona de publicación a usuarios",
+            "introduction": false,
+            "next": {
+                "path": "plugins/google-analytics.md",
+                "title": "Google Analytics",
+                "level": "2.1.8",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "2.1.7",
+            "path": "plugins/restringir-zona-de-publicacion-a-usuarios.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 29,
+            "title": "Google Analytics",
+            "introduction": false,
+            "next": {
+                "path": "plugins/wordpress-y-google-drive.md",
+                "title": "Wordpress y Google Drive",
+                "level": "2.1.9",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "2.1.8",
+            "path": "plugins/google-analytics.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 30,
+            "title": "Wordpress y Google Drive",
+            "introduction": false,
+            "next": {
+                "path": "seguridad-en-wordpress/seguridad-en-wordpress.md",
+                "title": "Seguridad en Wordpress",
+                "level": "3.1",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "2.1.9",
+            "path": "plugins/wordpress-y-google-drive.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 31,
+            "title": "Seguridad en Wordpress",
+            "introduction": false,
+            "next": {
+                "path": "seguridad-en-wordpress/actualizar-wordpress.md",
+                "title": "Actualizar Wordpress",
+                "level": "3.1.1",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "3.1",
+            "path": "seguridad-en-wordpress/seguridad-en-wordpress.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 32,
+            "title": "Actualizar Wordpress",
+            "introduction": false,
+            "next": {
+                "path": "seguridad-en-wordpress/wordfence.md",
+                "title": "Wordfence",
+                "level": "3.1.2",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "3.1.1",
+            "path": "seguridad-en-wordpress/actualizar-wordpress.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 33,
+            "title": "Wordfence",
+            "introduction": false,
+            "next": {
+                "path": "seguridad-en-wordpress/all-in-one-wp-security.md",
+                "title": "All In One WP Security",
+                "level": "3.1.3",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "3.1.2",
+            "path": "seguridad-en-wordpress/wordfence.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 34,
+            "title": "All In One WP Security",
+            "introduction": false,
+            "next": {
+                "path": "seguridad-en-wordpress/copia-de-seguridad.md",
+                "title": "Copia de seguridad",
+                "level": "3.2",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "3.1.3",
+            "path": "seguridad-en-wordpress/all-in-one-wp-security.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 35,
+            "title": "Copia de seguridad",
+            "introduction": false,
+            "next": {
+                "path": "seguridad-en-wordpress/backup-integrado-de-wordpress.md",
+                "title": "Backup integrado de Wordpress",
+                "level": "3.2.1",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "3.2",
+            "path": "seguridad-en-wordpress/copia-de-seguridad.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 36,
+            "title": "Backup integrado de Wordpress",
+            "introduction": false,
+            "next": {
+                "path": "seguridad-en-wordpress/updraftplus.md",
+                "title": "UpdraftPlus",
+                "level": "3.2.2",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "3.2.1",
+            "path": "seguridad-en-wordpress/backup-integrado-de-wordpress.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 37,
+            "title": "UpdraftPlus",
+            "introduction": false,
+            "next": {
+                "path": "seguridad-en-wordpress/updraftplus-con-dropbox-y-google-drive.md",
+                "title": "UpdraftPlus con Dropbox y Google Drive",
+                "level": "3.2.3",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "3.2.2",
+            "path": "seguridad-en-wordpress/updraftplus.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 38,
+            "title": "UpdraftPlus con Dropbox y Google Drive",
+            "introduction": false,
+            "next": {
+                "path": "seguridad-en-wordpress/backwpup.md",
+                "title": "BackWPup",
+                "level": "3.2.4",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "3.2.3",
+            "path": "seguridad-en-wordpress/updraftplus-con-dropbox-y-google-drive.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 39,
+            "title": "BackWPup",
+            "introduction": false,
+            "next": {
+                "path": "edicion-visual-avanzada-html-y-css/edicion-visual-avanzada-html-y-css.md",
+                "title": "Edición visual avanzada con HTML y CSS",
+                "level": "4.1",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "3.2.4",
+            "path": "seguridad-en-wordpress/backwpup.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 40,
+            "title": "Edición visual avanzada con HTML y CSS",
+            "introduction": false,
+            "next": {
+                "path": "edicion-visual-avanzada-html-y-css/anadir-css-en-el-tema.md",
+                "title": "Añadir CSS en el Tema",
+                "level": "4.1.1",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "4.1",
+            "path": "edicion-visual-avanzada-html-y-css/edicion-visual-avanzada-html-y-css.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 41,
+            "title": "Añadir CSS en el Tema",
+            "introduction": false,
+            "next": {
+                "path": "edicion-visual-avanzada-html-y-css/temas-hijos.md",
+                "title": "Temas hijos",
+                "level": "4.1.2",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "4.1.1",
+            "path": "edicion-visual-avanzada-html-y-css/anadir-css-en-el-tema.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 42,
+            "title": "Temas hijos",
+            "introduction": false,
+            "next": {
+                "path": "referencias.md",
+                "title": "Referencias",
+                "level": "5.1",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "4.1.2",
+            "path": "edicion-visual-avanzada-html-y-css/temas-hijos.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 43,
+            "title": "Referencias",
+            "introduction": false,
+            "next": {
+                "path": "Creditos.md",
+                "title": "Créditos",
+                "level": "5.2",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "5.1",
+            "path": "referencias.md",
+            "percent": 0,
+            "done": true
+        }, {
+            "index": 44,
+            "title": "Créditos",
+            "introduction": false,
+            "next": null,
+            "level": "5.2",
+            "path": "Creditos.md",
+            "percent": 0,
+            "done": true
+        }],
+        "percent": 0,
+        "prevPercent": 0,
+        "current": {
+            "index": 0,
+            "title": "Introducción",
+            "introduction": true,
+            "next": {
+                "path": "objetivos.md",
+                "title": "Objetivos",
+                "level": "1.1.1",
+                "exists": true,
+                "external": true,
+                "introduction": false
+            },
+            "level": "1.1",
+            "path": "README.md",
+            "percent": 0,
+            "done": true
+        }
+    }
+}
