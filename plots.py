@@ -44,3 +44,36 @@ p.circle('iter', 'updates', size=8, source=source, color={
 
 with open('traffic.json', 'r') as infile:
     data_traffic = json.load(infile)
+
+df_traffic = pd.DataFrame(data_traffic)
+df_traffic['title'] = [data_traffic[str(i)]['title'] for i in range(len(data_traffic))]
+df_traffic['visitas_totales'] = []
+df_traffic['visitas_unicas'] = []
+df_traffic['descargas'] = []
+
+# Recupero los datos necesarios
+for i in range(len(data_traffic)):
+    try:
+        df_traffic['visitas_totales'].append(data_traffic[str(i)]['traffic']['total'])
+    except:
+        df_traffic['visitas_totales'].append(0)
+
+    try:
+        df_traffic['visitas_unicas'].append(data_traffic[str(i)]['traffic']['total'])
+    except:
+        df_traffic['visitas_unicas'].append(0)
+
+    try:
+        df_traffic['descargas'].append(data_traffic[str(i)]['traffic']['total'])
+    except:
+        df_traffic['descargas'].append(0)
+
+# for i in range(len(data_traffic)):
+# 	try:
+# 	    if not data_traffic[str(i)]['platforms']['list']:
+# 	        platforms.append(None)
+# 	    else:
+# 	        platforms.append(data_traffic[str(i)]['platforms']['list'])
+# 	except:
+# 	    platforms.append(None)
+
