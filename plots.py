@@ -6,22 +6,29 @@ from bokeh.models import CategoricalColorMapper, HoverTool, ColumnDataSource, so
 from bokeh.models.widgets import Tabs, Panel
 import json
 import numpy as np
+import datetime
 
 with open('books.json', 'r') as infile:
     data_books = json.load(infile)
 
 dfb = pd.DataFrame(data_books)
 df = pd.DataFrame(data_books['list'])
-df['iter'] = [i for i in range(len(df.index))]
 df['updates'] = [count['updates'] for count in df['counts']]
 df['editors'] = ["Con colaboradores" if count['collaborators'] != 0 else 'Sin colaboradores' for count in df['counts']]
+df['creation'] = [datetime.datetime.strptime(date['dates']['created'].split('T')[0], '%Y-%m-%d').strftime('%d/%m/%y') for date in dfb['list']]
+df['creation_plot'] = pd.to_datetime([date['dates']['created'] for date in dfb['list']])
+
+df = df.sort_values('creation_plot')
+
+df['iter'] = [i for i in range(len(df.index))]
 
 source = ColumnDataSource(data={
 	'title' : df['title'],
 	'iter' : df['iter'],
 	'updates' : df['updates'],
 	'editors' : df['editors'],
-	'creation': [date['dates']['created'].split('T')[0] for date in dfb['list']]
+	'creation': df['creation'],
+	'creation_plot': df['creation_plot']
 })
 
 mapper = CategoricalColorMapper(
@@ -35,15 +42,15 @@ hover = HoverTool(tooltips=[
 	("Fecha de creación", '@creation')
 ])
 
-p = figure(x_axis_label='Cursos',
+p0 = figure(x_axis_label='Cursos',
           y_axis_label='Número de Actualizaciones',
 		  tools=[hover, 'wheel_zoom', 'reset', 'pan'])
 
-p.circle('iter', 'updates', size=8, source=source, color={
+p0.scatter('iter', 'updates', size=8, source=source, color={
 	'field': 'editors', 'transform': mapper
 }, legend='editors')
 
-show(p)
+# show(p0)
 
 with open('traffic.json', 'r') as infile:
     data_traffic = json.load(infile)
@@ -58,3 +65,9 @@ descargas = sum([visita.get('downloads') if visita.get('downloads') != None else
 
 print('{} visitas totales\n{} visitas únicas\n{} descargas'.format(visitas_totales, visitas_unicas, descargas))
 
+p1 = figure(x_axis_label='Fecha de creación o importación', y_axis_label='Número de libros', x_axis_type='datetime',
+		  tools=[hover, 'wheel_zoom', 'reset', 'pan'])
+		
+p1.line('creation_plot', 'iter', source=source, line_dash='2 2', line_alpha=0.8, line_width=8, line_join='bevel', line_dash_offset=2)
+
+show(p1)
