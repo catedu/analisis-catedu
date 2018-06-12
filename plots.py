@@ -1,7 +1,8 @@
 import pandas as pd
 from bokeh.io import output_file, show
+from bokeh.layouts import column
 from bokeh.plotting import figure, ColumnDataSource
-from bokeh.models import CategoricalColorMapper, HoverTool, ColumnDataSource, sources
+from bokeh.models import CategoricalColorMapper, HoverTool, ColumnDataSource, sources, Select
 from bokeh.models.widgets import Tabs, Panel
 import json
 import numpy as np
@@ -39,4 +40,7 @@ p.circle('iter', 'updates', size=8, source=source, color={
 	'field': 'editors', 'transform': mapper
 }, legend='editors')
 
-show(p)
+# show(p)
+
+with open('traffic.json', 'r') as infile:
+    data_traffic = json.load(infile)
