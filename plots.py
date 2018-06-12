@@ -38,4 +38,5 @@ p = figure(x_axis_label='Cursos',
 p.circle('iter', 'updates', size=8, source=source, color={
 	'field': 'editors', 'transform': mapper
 }, legend='editors')
+
 show(p)
