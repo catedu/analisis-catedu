@@ -44,13 +44,15 @@ hover = HoverTool(tooltips=[
 
 p0 = figure(x_axis_label='Cursos',
           y_axis_label='Número de Actualizaciones',
-		  tools=[hover, 'wheel_zoom', 'reset', 'pan'])
+		  tools=[hover, 'wheel_zoom', 'reset', 'pan'],
+		  plot_width=1000)
 
-p0.scatter('iter', 'updates', size=8, source=source, color={
+p0.circle('iter', 'updates', size=8, source=source, color={
 	'field': 'editors', 'transform': mapper
 }, legend='editors')
 
-# show(p0)
+output_file('actualizaciones.html')
+show(p0)
 
 with open('traffic.json', 'r') as infile:
     data_traffic = json.load(infile)
@@ -66,8 +68,9 @@ descargas = sum([visita.get('downloads') if visita.get('downloads') != None else
 print('{} visitas totales\n{} visitas únicas\n{} descargas'.format(visitas_totales, visitas_unicas, descargas))
 
 p1 = figure(x_axis_label='Fecha de creación o importación', y_axis_label='Número de libros', x_axis_type='datetime',
-		  tools=[hover, 'wheel_zoom', 'reset', 'pan'])
+		  tools=[hover, 'wheel_zoom', 'reset', 'pan'], plot_width=1000)
 		
 p1.line('creation_plot', 'iter', source=source, line_dash='2 2', line_alpha=0.8, line_width=8, line_join='bevel', line_dash_offset=2)
 
+output_file('progreso.html')
 show(p1)

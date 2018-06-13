@@ -16,7 +16,7 @@ import json
 import time
 
 password = getpass()
-num_of_pages = 6708
+num_of_pages = 5276
 
 r = requests.get('https://api.gitbook.com/author/catedu/books?limit=100', auth=('deleyva', password))
 with open('books.json', 'w') as file:
